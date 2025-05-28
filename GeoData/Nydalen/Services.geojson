@@ -1,0 +1,268 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-04-04T10:56:45Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/25332171",
+        "amenity": "restaurant",
+        "brand": "Peppes Pizza",
+        "brand:wikidata": "Q911973",
+        "brand:wikipedia": "en:Peppes Pizza",
+        "check_date": "2024-06-30",
+        "cuisine": "pizza",
+        "name": "Peppes Pizza Nydalen",
+        "takeaway": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7664274,
+          59.9499642
+        ]
+      },
+      "id": "node/25332171"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/355320757",
+        "amenity": "restaurant",
+        "internet_access": "wlan",
+        "microbrewery": "yes",
+        "name": "Nydalen Bryggeri og Spiseri",
+        "opening_hours": "Mo-We 11:00-23:00; Th 11:00-00:00; Fr 11:00-01:00; Sa 12:00-01:00; Su 13:00-21:00",
+        "phone": "+47 22 23 94 40",
+        "smoking": "outside",
+        "source": "Homepage",
+        "toilets:wheelchair": "yes",
+        "website": "https://www.nydalenbryggeri.no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.764512,
+          59.950059
+        ]
+      },
+      "id": "node/355320757"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1795660923",
+        "branch": "Torgbygget, Oslo",
+        "brand": "Narvesen",
+        "brand:wikidata": "Q6514414",
+        "brand:wikipedia": "en:Narvesen",
+        "name": "Narvesen",
+        "ref:narvesen": "829",
+        "shop": "kiosk",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7658753,
+          59.9495216
+        ]
+      },
+      "id": "node/1795660923"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1915743891",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "email": "nydalen@bakerhansen.no",
+        "name": "Baker Hansen",
+        "opening_hours": "Mo-Fr 07:00-18:00; Sa 10:00-17:00; Su 11:00-17:00",
+        "operator": "Baker Hansen",
+        "phone": "+47 22234824",
+        "shop": "bakery",
+        "smoking": "no",
+        "toilets:wheelchair": "yes",
+        "website": "https://www.bakerhansen.no/nydalen/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.765903,
+          59.949394
+        ]
+      },
+      "id": "node/1915743891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3932040028",
+        "amenity": "restaurant",
+        "name": "Sodexo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7684727,
+          59.9495877
+        ]
+      },
+      "id": "node/3932040028"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6336087843",
+        "amenity": "pharmacy",
+        "branch": "Nydalen",
+        "brand": "Apotek 1",
+        "brand:wikidata": "Q4581428",
+        "brand:wikipedia": "no:Apotek 1",
+        "email": "apotek1.nydalen@apotek1.no",
+        "healthcare": "pharmacy",
+        "name": "Apotek 1 Nydalen",
+        "opening_hours": "Mo-Fr 09:00-18:00, Sa 10:00-16:00",
+        "phone": "+47 23 00 78 30",
+        "ref:apotek1": "582",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.766175,
+          59.949373
+        ]
+      },
+      "id": "node/6336087843"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6369128647",
+        "name": "EVO elsykler",
+        "opening_hours": "Mo-Fr 10:00-18:00, Sa 10:00-15:00",
+        "operator": "EVO ELSYKLER AS",
+        "service:bicycle:ebike": "yes",
+        "service:bicycle:ebike_service": "yes",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "pedelec",
+        "shop": "bicycle",
+        "website": "https://evoelsykler.no/elsykkel/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.767053,
+          59.952932
+        ]
+      },
+      "id": "node/6369128647"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7632779295",
+        "branch": "Tåsen Bilverksted",
+        "brand": "Mekonomen",
+        "brand:wikidata": "Q10580079",
+        "brand:wikipedia": "sv:Mekonomen",
+        "name": "Mekonomen Tåsen Bilverksted",
+        "opening_hours": "Mo-Fr 07:00-16:00",
+        "ref:mekonomen": "6024-189",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7597811,
+          59.9536321
+        ]
+      },
+      "id": "node/7632779295"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9724212614",
+        "amenity": "cafe",
+        "email": "nybaker@godtbrod.no",
+        "name": "Godt Brød",
+        "opening_hours": "Mo-Fr 07:00-17:00; Sa-Su 09:00-17:00",
+        "phone": "+47 22233300",
+        "website": "https://www.godtbrod.no/Bakeverksted/Nydalen-NY28"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7640523,
+          59.9497531
+        ]
+      },
+      "id": "node/9724212614"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10660688019",
+        "fee": "no",
+        "name": "BUA Nordre Aker",
+        "shop": "rental",
+        "website": "https://www.bua.no/utlansordninger/bua-nordre-aker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7603017,
+          59.9527642
+        ]
+      },
+      "id": "node/10660688019"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11185679029",
+        "amenity": "restaurant",
+        "cuisine": "asian;sushi",
+        "name": "Xeast",
+        "opening_hours": "Mo-Fr 11:00-24:00; Sa-Su 15:00-24:00",
+        "website": "https://xeast.no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7654482,
+          59.9494752
+        ]
+      },
+      "id": "node/11185679029"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11835386441",
+        "amenity": "restaurant",
+        "check_date": "2024-06-30",
+        "cuisine": "pizza",
+        "name": "Trattoria Crudo",
+        "operator": "Fursetgruppen",
+        "website": "https://www.crudo.no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.765839,
+          59.9499726
+        ]
+      },
+      "id": "node/11835386441"
+    }
+  ]
+}
