@@ -1,0 +1,903 @@
+GAIA Fitness per Generation Report
+==================================================
+
+Generation 1:
+  Total Fitness: 0.6335
+  - GFA: 0.4100
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6975
+  - Shadow Buildings: 0.8330
+
+Generation 2:
+  Total Fitness: 0.6335
+  - GFA: 0.4700
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6975
+  - Shadow Buildings: 0.8330
+
+Generation 3:
+  Total Fitness: 0.6401
+  - GFA: 0.5000
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6975
+  - Shadow Buildings: 0.8290
+
+Generation 4:
+  Total Fitness: 0.6401
+  - GFA: 0.5100
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6975
+  - Shadow Buildings: 0.8330
+
+Generation 5:
+  Total Fitness: 0.6407
+  - GFA: 0.5300
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6810
+  - Shadow Buildings: 0.8330
+
+Generation 6:
+  Total Fitness: 0.6407
+  - GFA: 0.5300
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6810
+  - Shadow Buildings: 0.8330
+
+Generation 7:
+  Total Fitness: 0.6424
+  - GFA: 0.5300
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6810
+  - Shadow Buildings: 0.8330
+
+Generation 8:
+  Total Fitness: 0.6424
+  - GFA: 0.5400
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6810
+  - Shadow Buildings: 0.8330
+
+Generation 9:
+  Total Fitness: 0.6707
+  - GFA: 0.7100
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6810
+  - Shadow Buildings: 0.8330
+
+Generation 10:
+  Total Fitness: 0.6707
+  - GFA: 0.7100
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6810
+  - Shadow Buildings: 0.8330
+
+Generation 11:
+  Total Fitness: 0.6707
+  - GFA: 0.7100
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6810
+  - Shadow Buildings: 0.8330
+
+Generation 12:
+  Total Fitness: 0.6707
+  - GFA: 0.7100
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6810
+  - Shadow Buildings: 0.8330
+
+Generation 13:
+  Total Fitness: 0.6707
+  - GFA: 0.7100
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6810
+  - Shadow Buildings: 0.8330
+
+Generation 14:
+  Total Fitness: 0.6757
+  - GFA: 0.7100
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6810
+  - Shadow Buildings: 0.8330
+
+Generation 15:
+  Total Fitness: 0.6757
+  - GFA: 0.7400
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6810
+  - Shadow Buildings: 0.8330
+
+Generation 16:
+  Total Fitness: 0.6757
+  - GFA: 0.7400
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6810
+  - Shadow Buildings: 0.8330
+
+Generation 17:
+  Total Fitness: 0.6757
+  - GFA: 0.7400
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6810
+  - Shadow Buildings: 0.8330
+
+Generation 18:
+  Total Fitness: 0.6757
+  - GFA: 0.7400
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6810
+  - Shadow Buildings: 0.8330
+
+Generation 19:
+  Total Fitness: 0.6757
+  - GFA: 0.7400
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6810
+  - Shadow Buildings: 0.8330
+
+Generation 20:
+  Total Fitness: 0.6807
+  - GFA: 0.7700
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6810
+  - Shadow Buildings: 0.8330
+
+Generation 21:
+  Total Fitness: 0.6807
+  - GFA: 0.7700
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6810
+  - Shadow Buildings: 0.8330
+
+Generation 22:
+  Total Fitness: 0.6807
+  - GFA: 0.7700
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6810
+  - Shadow Buildings: 0.8330
+
+Generation 23:
+  Total Fitness: 0.6807
+  - GFA: 0.7700
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6810
+  - Shadow Buildings: 0.8330
+
+Generation 24:
+  Total Fitness: 0.6807
+  - GFA: 0.7700
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6810
+  - Shadow Buildings: 0.8330
+
+Generation 25:
+  Total Fitness: 0.6807
+  - GFA: 0.7700
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6810
+  - Shadow Buildings: 0.8330
+
+Generation 26:
+  Total Fitness: 0.6841
+  - GFA: 0.7900
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6810
+  - Shadow Buildings: 0.8330
+
+Generation 27:
+  Total Fitness: 0.6841
+  - GFA: 0.7900
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6810
+  - Shadow Buildings: 0.8330
+
+Generation 28:
+  Total Fitness: 0.6841
+  - GFA: 0.7900
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6810
+  - Shadow Buildings: 0.8330
+
+Generation 29:
+  Total Fitness: 0.6841
+  - GFA: 0.7900
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6810
+  - Shadow Buildings: 0.8330
+
+Generation 30:
+  Total Fitness: 0.6841
+  - GFA: 0.7900
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6810
+  - Shadow Buildings: 0.8330
+
+Generation 31:
+  Total Fitness: 0.6841
+  - GFA: 0.7900
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6810
+  - Shadow Buildings: 0.8330
+
+Generation 32:
+  Total Fitness: 0.6841
+  - GFA: 0.7900
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6810
+  - Shadow Buildings: 0.8330
+
+Generation 33:
+  Total Fitness: 0.6841
+  - GFA: 0.7900
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6810
+  - Shadow Buildings: 0.8330
+
+Generation 34:
+  Total Fitness: 0.6841
+  - GFA: 0.7900
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6810
+  - Shadow Buildings: 0.8330
+
+Generation 35:
+  Total Fitness: 0.6841
+  - GFA: 0.7900
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6810
+  - Shadow Buildings: 0.8330
+
+Generation 36:
+  Total Fitness: 0.6841
+  - GFA: 0.7900
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6810
+  - Shadow Buildings: 0.8330
+
+Generation 37:
+  Total Fitness: 0.6857
+  - GFA: 0.7900
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6810
+  - Shadow Buildings: 0.8330
+
+Generation 38:
+  Total Fitness: 0.6857
+  - GFA: 0.8000
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6810
+  - Shadow Buildings: 0.8330
+
+Generation 39:
+  Total Fitness: 0.6857
+  - GFA: 0.8000
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6810
+  - Shadow Buildings: 0.8330
+
+Generation 40:
+  Total Fitness: 0.6857
+  - GFA: 0.8000
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6810
+  - Shadow Buildings: 0.8330
+
+Generation 41:
+  Total Fitness: 0.6857
+  - GFA: 0.8000
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6810
+  - Shadow Buildings: 0.8330
+
+Generation 42:
+  Total Fitness: 0.6857
+  - GFA: 0.8000
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6810
+  - Shadow Buildings: 0.8330
+
+Generation 43:
+  Total Fitness: 0.6907
+  - GFA: 0.8200
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6810
+  - Shadow Buildings: 0.8430
+
+Generation 44:
+  Total Fitness: 0.6907
+  - GFA: 0.8200
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6810
+  - Shadow Buildings: 0.8430
+
+Generation 45:
+  Total Fitness: 0.6907
+  - GFA: 0.8200
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6810
+  - Shadow Buildings: 0.8430
+
+Generation 46:
+  Total Fitness: 0.6927
+  - GFA: 0.8300
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6825
+  - Shadow Buildings: 0.8430
+
+Generation 47:
+  Total Fitness: 0.6927
+  - GFA: 0.8300
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6825
+  - Shadow Buildings: 0.8430
+
+Generation 48:
+  Total Fitness: 0.6927
+  - GFA: 0.8300
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6825
+  - Shadow Buildings: 0.8430
+
+Generation 49:
+  Total Fitness: 0.6927
+  - GFA: 0.8300
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6825
+  - Shadow Buildings: 0.8430
+
+Generation 50:
+  Total Fitness: 0.6927
+  - GFA: 0.8300
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6825
+  - Shadow Buildings: 0.8430
+
+Generation 51:
+  Total Fitness: 0.6927
+  - GFA: 0.8300
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6825
+  - Shadow Buildings: 0.8430
+
+Generation 52:
+  Total Fitness: 0.6927
+  - GFA: 0.8300
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6825
+  - Shadow Buildings: 0.8430
+
+Generation 53:
+  Total Fitness: 0.6927
+  - GFA: 0.8300
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6825
+  - Shadow Buildings: 0.8430
+
+Generation 54:
+  Total Fitness: 0.6927
+  - GFA: 0.8300
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6825
+  - Shadow Buildings: 0.8430
+
+Generation 55:
+  Total Fitness: 0.6927
+  - GFA: 0.8300
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6825
+  - Shadow Buildings: 0.8430
+
+Generation 56:
+  Total Fitness: 0.6927
+  - GFA: 0.8300
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6825
+  - Shadow Buildings: 0.8430
+
+Generation 57:
+  Total Fitness: 0.6927
+  - GFA: 0.8300
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6825
+  - Shadow Buildings: 0.8430
+
+Generation 58:
+  Total Fitness: 0.6927
+  - GFA: 0.8300
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6825
+  - Shadow Buildings: 0.8430
+
+Generation 59:
+  Total Fitness: 0.6927
+  - GFA: 0.8300
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6825
+  - Shadow Buildings: 0.8430
+
+Generation 60:
+  Total Fitness: 0.6927
+  - GFA: 0.8300
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6825
+  - Shadow Buildings: 0.8430
+
+Generation 61:
+  Total Fitness: 0.6927
+  - GFA: 0.8300
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6825
+  - Shadow Buildings: 0.8430
+
+Generation 62:
+  Total Fitness: 0.6977
+  - GFA: 0.8300
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6825
+  - Shadow Buildings: 0.8430
+
+Generation 63:
+  Total Fitness: 0.6977
+  - GFA: 0.8600
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6825
+  - Shadow Buildings: 0.8430
+
+Generation 64:
+  Total Fitness: 0.6977
+  - GFA: 0.8600
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6825
+  - Shadow Buildings: 0.8430
+
+Generation 65:
+  Total Fitness: 0.6977
+  - GFA: 0.8600
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6825
+  - Shadow Buildings: 0.8430
+
+Generation 66:
+  Total Fitness: 0.6977
+  - GFA: 0.8600
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6825
+  - Shadow Buildings: 0.8430
+
+Generation 67:
+  Total Fitness: 0.6977
+  - GFA: 0.8600
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6825
+  - Shadow Buildings: 0.8430
+
+Generation 68:
+  Total Fitness: 0.6977
+  - GFA: 0.8600
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6825
+  - Shadow Buildings: 0.8430
+
+Generation 69:
+  Total Fitness: 0.6977
+  - GFA: 0.8600
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6825
+  - Shadow Buildings: 0.8430
+
+Generation 70:
+  Total Fitness: 0.6977
+  - GFA: 0.8600
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6825
+  - Shadow Buildings: 0.8430
+
+Generation 71:
+  Total Fitness: 0.6977
+  - GFA: 0.8600
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6825
+  - Shadow Buildings: 0.8430
+
+Generation 72:
+  Total Fitness: 0.6977
+  - GFA: 0.8600
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6825
+  - Shadow Buildings: 0.8430
+
+Generation 73:
+  Total Fitness: 0.6977
+  - GFA: 0.8600
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6825
+  - Shadow Buildings: 0.8430
+
+Generation 74:
+  Total Fitness: 0.6977
+  - GFA: 0.8600
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6825
+  - Shadow Buildings: 0.8430
+
+Generation 75:
+  Total Fitness: 0.6977
+  - GFA: 0.8600
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6825
+  - Shadow Buildings: 0.8430
+
+Generation 76:
+  Total Fitness: 0.6977
+  - GFA: 0.8600
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6825
+  - Shadow Buildings: 0.8430
+
+Generation 77:
+  Total Fitness: 0.6993
+  - GFA: 0.8600
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6825
+  - Shadow Buildings: 0.8430
+
+Generation 78:
+  Total Fitness: 0.6993
+  - GFA: 0.8700
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6825
+  - Shadow Buildings: 0.8430
+
+Generation 79:
+  Total Fitness: 0.6993
+  - GFA: 0.8700
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6825
+  - Shadow Buildings: 0.8430
+
+Generation 80:
+  Total Fitness: 0.6993
+  - GFA: 0.8700
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6825
+  - Shadow Buildings: 0.8430
+
+Generation 81:
+  Total Fitness: 0.6993
+  - GFA: 0.8700
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6825
+  - Shadow Buildings: 0.8430
+
+Generation 82:
+  Total Fitness: 0.6993
+  - GFA: 0.8700
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6825
+  - Shadow Buildings: 0.8430
+
+Generation 83:
+  Total Fitness: 0.6993
+  - GFA: 0.8700
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6825
+  - Shadow Buildings: 0.8430
+
+Generation 84:
+  Total Fitness: 0.6993
+  - GFA: 0.8700
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6825
+  - Shadow Buildings: 0.8430
+
+Generation 85:
+  Total Fitness: 0.7010
+  - GFA: 0.6300
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6900
+  - Shadow Buildings: 0.8430
+
+Generation 86:
+  Total Fitness: 0.7010
+  - GFA: 0.8800
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6825
+  - Shadow Buildings: 0.8430
+
+Generation 87:
+  Total Fitness: 0.7010
+  - GFA: 0.8800
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6825
+  - Shadow Buildings: 0.8430
+
+Generation 88:
+  Total Fitness: 0.7010
+  - GFA: 0.8800
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6825
+  - Shadow Buildings: 0.8430
+
+Generation 89:
+  Total Fitness: 0.7010
+  - GFA: 0.8800
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6825
+  - Shadow Buildings: 0.8430
+
+Generation 90:
+  Total Fitness: 0.7043
+  - GFA: 0.9000
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6825
+  - Shadow Buildings: 0.8390
+
+Generation 91:
+  Total Fitness: 0.7043
+  - GFA: 0.9000
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6825
+  - Shadow Buildings: 0.8430
+
+Generation 92:
+  Total Fitness: 0.7043
+  - GFA: 0.9000
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6825
+  - Shadow Buildings: 0.8430
+
+Generation 93:
+  Total Fitness: 0.7043
+  - GFA: 0.9000
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6825
+  - Shadow Buildings: 0.8430
+
+Generation 94:
+  Total Fitness: 0.7043
+  - GFA: 0.9000
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6825
+  - Shadow Buildings: 0.8430
+
+Generation 95:
+  Total Fitness: 0.7060
+  - GFA: 0.9100
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6825
+  - Shadow Buildings: 0.8430
+
+Generation 96:
+  Total Fitness: 0.7060
+  - GFA: 0.9100
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6825
+  - Shadow Buildings: 0.8430
+
+Generation 97:
+  Total Fitness: 0.7060
+  - GFA: 0.9100
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6825
+  - Shadow Buildings: 0.8430
+
+Generation 98:
+  Total Fitness: 0.7060
+  - GFA: 0.9100
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6825
+  - Shadow Buildings: 0.8430
+
+Generation 99:
+  Total Fitness: 0.7060
+  - GFA: 0.9100
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6825
+  - Shadow Buildings: 0.8430
+
+Generation 100:
+  Total Fitness: 0.7060
+  - GFA: 0.9100
+  - Shadow Nature: 0.9966
+  - Walkability: 0.3460
+  - Cycleability: 0.4570
+  - Serviceability: 0.6825
+  - Shadow Buildings: 0.8430
+
