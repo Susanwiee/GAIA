@@ -1,0 +1,83 @@
+//How to - dowload GeoJSON file from overpass turbo
+//To download GeoJSON files, go to overpass turbo (https://overpass-turbo.eu/)
+//For each GeoSJON file is a specific query to run 
+// Define the bounding box by zooming or use a custom area
+//Paste each queries seperatly, run and export to GeoJSON
+
+//Query for buildings.geosjon -> buildings_gdf
+[out:json][timeout:25];
+
+(
+  way["building"]({{bbox}});
+  relation["building"]({{bbox}});
+);
+out body;
+>;
+out skel qt;
+
+//Query for nature.geosjon -> nature_gdf
+[out:json][timeout:25];
+
+(
+
+  way["leisure"="park"]({{bbox}});
+  way["landuse"="grass"]({{bbox}});
+  way["landuse"="forest"]({{bbox}});
+  way["natural"="wood"]({{bbox}});
+  way["leisure"="garden"]({{bbox}});
+  way["leisure"="recreation_ground"]({{bbox}});
+  way["landuse"="cemetery"]({{bbox}});
+  
+  way["natural"="water"]({{bbox}});
+  way["waterway"]({{bbox}});
+  relation["type"="waterway"]({{bbox}});
+  way["landuse"="reservoir"]({{bbox}});
+  way["water"="lake"]({{bbox}});
+  way["water"="river"]({{bbox}});
+);
+out body;
+>;
+out skel qt;
+
+// Query for barriers.geosjon -> barrier_gdf
+[out:json][timeout:25];
+(
+  way["highway"~"motorway|trunk|primary|secondary"]({{bbox}});
+  way["railway"]({{bbox}});
+  way["landuse"="industrial"]({{bbox}});
+  way["landuse"="construction"]({{bbox}});
+  way["barrier"~"wall|fence"]({{bbox}});
+);
+out body;
+>;
+out skel qt;
+
+// Query for cycle.geosjon -> cycle_gdf
+[out:json][timeout:25];
+
+(
+  way["highway"="cycleway"]({{bbox}});
+  way["highway"="residential"]({{bbox}});
+  way["bicycle"="yes"]({{bbox}});
+);
+
+out body;
+>;
+out skel qt;
+
+
+// Query for services.geosjon -> service_gdf
+[out:json][timeout:25];
+(
+  node["shop"]({{bbox}});
+  way["shop"]({{bbox}});
+  relation["shop"]({{bbox}});
+
+  node["amenity"~"cafe|restaurant|fast_food|food_court|ice_cream|pub|bar|cinema|pharmacy"]({{bbox}});
+  way["amenity"~"cafe|restaurant|fast_food|food_court|ice_cream|pub|bar|cinema|pharmacy"]({{bbox}});
+  relation["amenity"~"cafe|restaurant|fast_food|food_court|ice_cream|pub|bar|cinema|pharmacy"]({{bbox}});
+);
+out body;
+>;
+out skel qt;
+
