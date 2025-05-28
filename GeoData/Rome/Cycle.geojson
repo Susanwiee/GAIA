@@ -1,0 +1,6408 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-05-10T11:44:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/23840745",
+        "area": "yes",
+        "bicycle": "yes",
+        "highway": "pedestrian",
+        "lit": "yes",
+        "name": "Piazza della Minerva",
+        "name:it": "Piazza della Minerva",
+        "name:zh": "密涅瓦广场",
+        "place": "square",
+        "surface": "sett",
+        "wikidata": "Q2518575",
+        "wikipedia": "it:Piazza della Minerva"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.4773848,
+              41.898189
+            ],
+            [
+              12.4773243,
+              41.8981754
+            ],
+            [
+              12.4772667,
+              41.8981496
+            ],
+            [
+              12.4772774,
+              41.8979897
+            ],
+            [
+              12.4772925,
+              41.8977651
+            ],
+            [
+              12.4772932,
+              41.8977256
+            ],
+            [
+              12.4773397,
+              41.8977247
+            ],
+            [
+              12.4773791,
+              41.8977239
+            ],
+            [
+              12.4777743,
+              41.8977179
+            ],
+            [
+              12.4777756,
+              41.8977505
+            ],
+            [
+              12.4777767,
+              41.8977799
+            ],
+            [
+              12.4777646,
+              41.8981076
+            ],
+            [
+              12.477761,
+              41.8981791
+            ],
+            [
+              12.4775832,
+              41.8981838
+            ],
+            [
+              12.4773848,
+              41.898189
+            ]
+          ]
+        ]
+      },
+      "id": "way/23840745"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/25632011",
+        "area": "yes",
+        "bicycle": "yes",
+        "highway": "pedestrian",
+        "lit": "yes",
+        "name": "Piazza di Pietra",
+        "place": "square",
+        "surface": "sett",
+        "wikidata": "Q60840884",
+        "wikipedia": "it:Piazza di Pietra"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.4797984,
+              41.9001166
+            ],
+            [
+              12.479718,
+              41.9001126
+            ],
+            [
+              12.4796943,
+              41.9001114
+            ],
+            [
+              12.4796696,
+              41.90011
+            ],
+            [
+              12.4794651,
+              41.9000984
+            ],
+            [
+              12.4793067,
+              41.9000894
+            ],
+            [
+              12.4791394,
+              41.9000799
+            ],
+            [
+              12.4789421,
+              41.9000687
+            ],
+            [
+              12.4789727,
+              41.8998955
+            ],
+            [
+              12.4789754,
+              41.89988
+            ],
+            [
+              12.4790482,
+              41.899884
+            ],
+            [
+              12.4795321,
+              41.8999138
+            ],
+            [
+              12.4797851,
+              41.8999294
+            ],
+            [
+              12.4798044,
+              41.8999306
+            ],
+            [
+              12.4798329,
+              41.8999299
+            ],
+            [
+              12.4798251,
+              41.8999635
+            ],
+            [
+              12.4798205,
+              41.8999928
+            ],
+            [
+              12.4797984,
+              41.9001166
+            ]
+          ]
+        ]
+      },
+      "id": "way/25632011"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/4245319",
+        "bicycle": "yes",
+        "emergency": "yes",
+        "highway": "pedestrian",
+        "lit": "yes",
+        "motor_vehicle": "private",
+        "name": "Via dei Coronari",
+        "oneway:motor_vehicle": "yes",
+        "segregated": "no",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4726972,
+            41.9004544
+          ],
+          [
+            12.4725354,
+            41.9004437
+          ],
+          [
+            12.4724897,
+            41.9004407
+          ]
+        ]
+      },
+      "id": "way/4245319"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/4245321",
+        "highway": "residential",
+        "lit": "yes",
+        "name": "Piazza di Pasquino",
+        "oneway": "yes",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4722018,
+            41.8977238
+          ],
+          [
+            12.4723438,
+            41.8978919
+          ],
+          [
+            12.4723426,
+            41.8979343
+          ]
+        ]
+      },
+      "id": "way/4245321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/4245338",
+        "bicycle": "yes",
+        "highway": "pedestrian",
+        "lit": "yes",
+        "name": "Via di Sant'Agnese in Agone",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4722828,
+            41.899188
+          ],
+          [
+            12.4727503,
+            41.8992033
+          ]
+        ]
+      },
+      "id": "way/4245338"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/4245347",
+        "check_date:lit": "2021-10-28",
+        "highway": "residential",
+        "lane_markings": "no",
+        "lit": "yes",
+        "name": "Piazza di Tor Sanguigna",
+        "sidewalk": "both",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4725407,
+            41.9002964
+          ],
+          [
+            12.4726368,
+            41.9003979
+          ],
+          [
+            12.4726972,
+            41.9004544
+          ]
+        ]
+      },
+      "id": "way/4245347"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/4951377",
+        "foot": "yes",
+        "highway": "residential",
+        "is_in:city": "Roma",
+        "lanes": "1",
+        "lit": "yes",
+        "name": "Via delle Vergini",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4828423,
+            41.8996171
+          ],
+          [
+            12.4825781,
+            41.9001849
+          ]
+        ]
+      },
+      "id": "way/4951377"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/22961048",
+        "foot": "yes",
+        "highway": "residential",
+        "lit": "yes",
+        "name": "Piazza Vidoni",
+        "oneway": "no",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4746962,
+            41.8964815
+          ],
+          [
+            12.4746945,
+            41.8963987
+          ],
+          [
+            12.4746976,
+            41.8959866
+          ]
+        ]
+      },
+      "id": "way/22961048"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/23752216",
+        "highway": "residential",
+        "lit": "yes",
+        "name": "Via del Paradiso",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4735377,
+            41.8959656
+          ],
+          [
+            12.4737019,
+            41.895979
+          ],
+          [
+            12.4738931,
+            41.895994
+          ],
+          [
+            12.4740393,
+            41.8960056
+          ]
+        ]
+      },
+      "id": "way/23752216"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/23752654",
+        "bicycle": "yes",
+        "crossing": "marked",
+        "crossing:island": "no",
+        "crossing:markings": "zebra",
+        "demolished:highway": "footway",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "name": "Piazza Venezia",
+        "name:etymology:wikidata": "Q641",
+        "surface": "sett",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4820642,
+            41.8959162
+          ],
+          [
+            12.4821558,
+            41.8959342
+          ],
+          [
+            12.4822891,
+            41.8959603
+          ]
+        ]
+      },
+      "id": "way/23752654"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/23840660",
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "service",
+        "lit": "yes",
+        "name": "Via del Seminario",
+        "oneway": "yes",
+        "service": "alley",
+        "surface": "sett",
+        "width": "3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4771959,
+            41.8990055
+          ],
+          [
+            12.4779758,
+            41.8990223
+          ],
+          [
+            12.4784161,
+            41.8990385
+          ],
+          [
+            12.4787003,
+            41.8990662
+          ],
+          [
+            12.4792244,
+            41.8991274
+          ],
+          [
+            12.4793833,
+            41.8991472
+          ]
+        ]
+      },
+      "id": "way/23840660"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/23840746",
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "service",
+        "lit": "yes",
+        "name": "Via della Minerva",
+        "oneway": "yes",
+        "service": "alley",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4773243,
+            41.8981754
+          ],
+          [
+            12.4773236,
+            41.8982297
+          ],
+          [
+            12.4772298,
+            41.8988767
+          ],
+          [
+            12.4771959,
+            41.8990055
+          ]
+        ]
+      },
+      "id": "way/23840746"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/25610749",
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "service",
+        "lit": "yes",
+        "name": "Via di Sant'Ignazio",
+        "oneway": "yes",
+        "service": "alley",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4793833,
+            41.8991472
+          ],
+          [
+            12.4794574,
+            41.8988476
+          ],
+          [
+            12.479545,
+            41.8984009
+          ]
+        ]
+      },
+      "id": "way/25610749"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/25631253",
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "residential",
+        "lit": "yes",
+        "name": "Via dei Cestari",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4773936,
+            41.8963997
+          ],
+          [
+            12.4773618,
+            41.8968761
+          ]
+        ]
+      },
+      "id": "way/25631253"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/25631623",
+        "highway": "residential",
+        "is_in:city": "Roma",
+        "lanes": "1",
+        "lit": "yes",
+        "name": "Via di Santa Caterina da Siena",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4777756,
+            41.8977505
+          ],
+          [
+            12.4780818,
+            41.8977214
+          ],
+          [
+            12.4781151,
+            41.8977169
+          ],
+          [
+            12.4782236,
+            41.8977024
+          ],
+          [
+            12.478293,
+            41.8976871
+          ],
+          [
+            12.4783674,
+            41.8976571
+          ],
+          [
+            12.4784522,
+            41.8976118
+          ],
+          [
+            12.4784826,
+            41.8975854
+          ],
+          [
+            12.4785105,
+            41.8975667
+          ]
+        ]
+      },
+      "id": "way/25631623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/25631803",
+        "highway": "residential",
+        "is_in:city": "Roma",
+        "lanes": "1",
+        "lit": "yes",
+        "name": "Via del Piè di Marmo",
+        "oneway": "yes",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4785105,
+            41.8975667
+          ],
+          [
+            12.4786187,
+            41.8975185
+          ],
+          [
+            12.4786625,
+            41.8975045
+          ],
+          [
+            12.4787471,
+            41.8975059
+          ],
+          [
+            12.4788491,
+            41.8975154
+          ],
+          [
+            12.4789536,
+            41.8975354
+          ],
+          [
+            12.4791137,
+            41.8975747
+          ],
+          [
+            12.4792763,
+            41.8976245
+          ],
+          [
+            12.4793982,
+            41.8976524
+          ],
+          [
+            12.4796728,
+            41.8977128
+          ],
+          [
+            12.4797198,
+            41.8977198
+          ],
+          [
+            12.4797629,
+            41.8977128
+          ]
+        ]
+      },
+      "id": "way/25631803"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/25631919",
+        "bicycle": "yes",
+        "highway": "pedestrian",
+        "lit": "yes",
+        "name": "Piazza di Pietra",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4798251,
+            41.8999635
+          ],
+          [
+            12.4797891,
+            41.8999643
+          ],
+          [
+            12.4796029,
+            41.8999827
+          ],
+          [
+            12.4791901,
+            41.8999682
+          ],
+          [
+            12.4789754,
+            41.89988
+          ]
+        ]
+      },
+      "id": "way/25631919"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/25632064",
+        "bicycle": "yes",
+        "highway": "pedestrian",
+        "lit": "yes",
+        "name": "Via di Pietra",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4807907,
+            41.9000635
+          ],
+          [
+            12.4807534,
+            41.9000598
+          ],
+          [
+            12.4805479,
+            41.9000232
+          ],
+          [
+            12.4804799,
+            41.9000127
+          ],
+          [
+            12.4802101,
+            41.8999958
+          ],
+          [
+            12.4798251,
+            41.8999635
+          ]
+        ]
+      },
+      "id": "way/25632064"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/25632124",
+        "bicycle": "yes",
+        "highway": "footway",
+        "name": "Via del Caravita",
+        "surface": "cobblestone"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4810908,
+            41.8993849
+          ],
+          [
+            12.4810328,
+            41.8993755
+          ],
+          [
+            12.4810134,
+            41.8993723
+          ]
+        ]
+      },
+      "id": "way/25632124"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/25661550",
+        "highway": "residential",
+        "lane_markings": "no",
+        "lit": "yes",
+        "name": "Salita de' Crescenzi",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4765206,
+            41.899017
+          ],
+          [
+            12.47638,
+            41.8990109
+          ],
+          [
+            12.4760284,
+            41.8989958
+          ]
+        ]
+      },
+      "id": "way/25661550"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/25661828",
+        "highway": "residential",
+        "lanes": "1",
+        "lit": "yes",
+        "name": "Via della Scrofa",
+        "name:etymology:wikidata": "Q15942027",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4748408,
+            41.9005373
+          ],
+          [
+            12.4748801,
+            41.9008889
+          ],
+          [
+            12.4749669,
+            41.9016671
+          ],
+          [
+            12.4749981,
+            41.9018687
+          ],
+          [
+            12.4750087,
+            41.9019721
+          ],
+          [
+            12.4750459,
+            41.9022029
+          ],
+          [
+            12.4751195,
+            41.9027312
+          ],
+          [
+            12.4751308,
+            41.9028144
+          ],
+          [
+            12.4751466,
+            41.9029284
+          ]
+        ]
+      },
+      "id": "way/25661828"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/25768017",
+        "highway": "residential",
+        "is_in:city": "Roma",
+        "lanes": "1",
+        "lit": "yes",
+        "name": "Via del Vaccaro",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.483157,
+            41.8986025
+          ],
+          [
+            12.482925,
+            41.8984953
+          ],
+          [
+            12.4828941,
+            41.8984825
+          ],
+          [
+            12.48286,
+            41.8984698
+          ],
+          [
+            12.4828288,
+            41.8984601
+          ],
+          [
+            12.4827944,
+            41.8984504
+          ],
+          [
+            12.4827425,
+            41.898438
+          ]
+        ]
+      },
+      "id": "way/25768017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/25768313",
+        "foot": "yes",
+        "highway": "residential",
+        "lane_markings": "no",
+        "lit": "yes",
+        "name": "Via della Rotonda",
+        "oneway": "yes",
+        "sidewalk": "left",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4764519,
+            41.8982514
+          ],
+          [
+            12.4764414,
+            41.8983305
+          ],
+          [
+            12.4764414,
+            41.8984542
+          ],
+          [
+            12.4764468,
+            41.89879
+          ],
+          [
+            12.4765206,
+            41.899017
+          ]
+        ]
+      },
+      "id": "way/25768313"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/25768348",
+        "foot": "yes",
+        "highway": "residential",
+        "is_in:city": "Roma",
+        "lane_markings": "no",
+        "lit": "yes",
+        "name": "Via Monterone",
+        "oneway": "yes",
+        "surface": "sett",
+        "width": "2.5"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.475605,
+            41.8977984
+          ],
+          [
+            12.4756387,
+            41.8972677
+          ],
+          [
+            12.4756481,
+            41.8971066
+          ],
+          [
+            12.4756908,
+            41.8969257
+          ],
+          [
+            12.4757154,
+            41.8967851
+          ],
+          [
+            12.4757601,
+            41.8967906
+          ],
+          [
+            12.4758141,
+            41.8966203
+          ],
+          [
+            12.4758549,
+            41.8964773
+          ],
+          [
+            12.4758529,
+            41.8964055
+          ],
+          [
+            12.4758512,
+            41.8963236
+          ]
+        ]
+      },
+      "id": "way/25768348"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/28159140",
+        "foot": "yes",
+        "highway": "residential",
+        "is_in:city": "Roma",
+        "lanes": "1",
+        "lit": "yes",
+        "name": "Via di Santa Chiara",
+        "oneway": "yes",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4756326,
+            41.8981193
+          ],
+          [
+            12.4757635,
+            41.8980677
+          ],
+          [
+            12.4759806,
+            41.8979313
+          ],
+          [
+            12.4762453,
+            41.8977856
+          ],
+          [
+            12.476376,
+            41.897724
+          ],
+          [
+            12.476415,
+            41.8977056
+          ],
+          [
+            12.4765195,
+            41.8976597
+          ],
+          [
+            12.4765918,
+            41.8976318
+          ],
+          [
+            12.4766699,
+            41.8976103
+          ],
+          [
+            12.4767558,
+            41.8975953
+          ],
+          [
+            12.4768235,
+            41.8975936
+          ],
+          [
+            12.4768585,
+            41.8975927
+          ],
+          [
+            12.4771067,
+            41.897635
+          ],
+          [
+            12.4773304,
+            41.8976732
+          ]
+        ]
+      },
+      "id": "way/28159140"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/28159153",
+        "foot": "yes",
+        "highway": "residential",
+        "is_in:city": "Roma",
+        "lane_markings": "no",
+        "lit": "yes",
+        "name": "Via di Torre Argentina",
+        "oneway": "yes",
+        "surface": "sett",
+        "width": "3.3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.476362,
+            41.8961875
+          ],
+          [
+            12.4763618,
+            41.8962359
+          ],
+          [
+            12.4763655,
+            41.8966927
+          ],
+          [
+            12.4763757,
+            41.8968565
+          ],
+          [
+            12.4763775,
+            41.8969185
+          ],
+          [
+            12.4764051,
+            41.8973795
+          ],
+          [
+            12.4764091,
+            41.8975117
+          ],
+          [
+            12.476415,
+            41.8977056
+          ]
+        ]
+      },
+      "id": "way/28159153"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/28159226",
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "pedestrian",
+        "lit": "yes",
+        "name": "Via della Palombella",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4773243,
+            41.8981754
+          ],
+          [
+            12.4765215,
+            41.8981889
+          ],
+          [
+            12.4764925,
+            41.8981976
+          ],
+          [
+            12.4764747,
+            41.8982134
+          ],
+          [
+            12.4764653,
+            41.8982275
+          ],
+          [
+            12.4764519,
+            41.8982514
+          ],
+          [
+            12.475953,
+            41.8984207
+          ]
+        ]
+      },
+      "id": "way/28159226"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/28159241",
+        "foot": "yes",
+        "highway": "residential",
+        "lit": "yes",
+        "name": "Via di Sant'Eustachio",
+        "oneway": "yes",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4760284,
+            41.8989958
+          ],
+          [
+            12.4760229,
+            41.8989191
+          ],
+          [
+            12.4760199,
+            41.8988781
+          ],
+          [
+            12.4760112,
+            41.8988065
+          ],
+          [
+            12.4759954,
+            41.8987182
+          ],
+          [
+            12.4759781,
+            41.8986429
+          ],
+          [
+            12.4759706,
+            41.8986099
+          ],
+          [
+            12.4759617,
+            41.8985805
+          ],
+          [
+            12.4759243,
+            41.8984568
+          ],
+          [
+            12.4759129,
+            41.8984362
+          ]
+        ]
+      },
+      "id": "way/28159241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/28159302",
+        "highway": "residential",
+        "lanes": "1",
+        "lit": "yes",
+        "name": "Largo del Teatro Valle",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4746308,
+            41.8969344
+          ],
+          [
+            12.4749916,
+            41.8969808
+          ]
+        ]
+      },
+      "id": "way/28159302"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/28159318",
+        "highway": "residential",
+        "is_in:city": "Roma",
+        "lanes": "2",
+        "lit": "yes",
+        "name": "Piazza di Sant'Andrea della Valle",
+        "oneway": "yes",
+        "sidewalk": "right",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4744928,
+            41.8965021
+          ],
+          [
+            12.4745167,
+            41.8965788
+          ],
+          [
+            12.4745686,
+            41.8967369
+          ]
+        ]
+      },
+      "id": "way/28159318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/28159322",
+        "foot": "yes",
+        "highway": "residential",
+        "is_in:city": "Roma",
+        "lanes": "1",
+        "lit": "yes",
+        "name": "Via del Teatro Valle",
+        "oneway": "yes",
+        "sidewalk": "left",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4750881,
+            41.8969832
+          ],
+          [
+            12.4750842,
+            41.89791
+          ],
+          [
+            12.4750858,
+            41.8982581
+          ]
+        ]
+      },
+      "id": "way/28159322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/28159328",
+        "highway": "residential",
+        "lane_markings": "no",
+        "lit": "yes",
+        "name": "Largo della Sapienza",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "smoothness": "intermediate",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4743587,
+            41.8978756
+          ],
+          [
+            12.4740956,
+            41.897867
+          ],
+          [
+            12.474008,
+            41.8978642
+          ]
+        ]
+      },
+      "id": "way/28159328"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/28159329",
+        "highway": "residential",
+        "is_in:city": "Roma",
+        "lit": "yes",
+        "name": "Via dei Sediari",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "smoothness": "good",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4750842,
+            41.89791
+          ],
+          [
+            12.4744093,
+            41.897878
+          ],
+          [
+            12.4743587,
+            41.8978756
+          ]
+        ]
+      },
+      "id": "way/28159329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/28159530",
+        "highway": "residential",
+        "lit": "yes",
+        "name": "Via dell'Arco della Ciambella",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4763757,
+            41.8968565
+          ],
+          [
+            12.4768281,
+            41.8968658
+          ],
+          [
+            12.4773618,
+            41.8968761
+          ]
+        ]
+      },
+      "id": "way/28159530"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/28159612",
+        "highway": "residential",
+        "lanes": "1",
+        "lit": "yes",
+        "name": "Piazza Grazioli",
+        "oneway": "yes",
+        "service": "alley",
+        "sidewalk": "no",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4804992,
+            41.8971931
+          ],
+          [
+            12.4801195,
+            41.8971182
+          ],
+          [
+            12.4801158,
+            41.8969718
+          ]
+        ]
+      },
+      "id": "way/28159612"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/28159808",
+        "highway": "residential",
+        "lanes": "1",
+        "lit": "yes",
+        "name": "Via di Santa Giovanna d'Arco",
+        "oneway": "yes",
+        "sidewalk": "right",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.473839,
+            41.9000773
+          ],
+          [
+            12.4739468,
+            41.9000799
+          ],
+          [
+            12.4748126,
+            41.900101
+          ]
+        ]
+      },
+      "id": "way/28159808"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/28159844",
+        "highway": "residential",
+        "lanes": "1",
+        "lit": "yes",
+        "name": "Via di Sant'Agostino",
+        "name:etymology:wikidata": "Q8018",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4748747,
+            41.9005365
+          ],
+          [
+            12.4748408,
+            41.9005373
+          ],
+          [
+            12.4747781,
+            41.9005377
+          ],
+          [
+            12.4745875,
+            41.9005367
+          ],
+          [
+            12.4744459,
+            41.9005343
+          ],
+          [
+            12.4741013,
+            41.9005257
+          ]
+        ]
+      },
+      "id": "way/28159844"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/28160010",
+        "bicycle": "yes",
+        "highway": "pedestrian",
+        "is_in:city": "Roma",
+        "lit": "yes",
+        "name": "Piazza della Maddalena",
+        "odbl": "clean",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.476703,
+            41.900003
+          ],
+          [
+            12.4766857,
+            41.9000345
+          ],
+          [
+            12.4766007,
+            41.9001962
+          ]
+        ]
+      },
+      "id": "way/28160010"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/28160278",
+        "check_date:lit": "2021-10-28",
+        "highway": "residential",
+        "lane_markings": "no",
+        "lit": "yes",
+        "name": "Piazza di Monte Citorio",
+        "odbl": "clean",
+        "oneway": "yes",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4788288,
+            41.9004159
+          ],
+          [
+            12.478659,
+            41.9004016
+          ],
+          [
+            12.4785829,
+            41.9003952
+          ],
+          [
+            12.4785569,
+            41.9001722
+          ],
+          [
+            12.4785519,
+            41.9001389
+          ]
+        ]
+      },
+      "id": "way/28160278"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/28160280",
+        "check_date:lit": "2021-10-28",
+        "highway": "residential",
+        "lane_markings": "no",
+        "lit": "yes",
+        "name": "Via della Colonna Antonina",
+        "oneway": "yes",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4796544,
+            41.9005473
+          ],
+          [
+            12.4788288,
+            41.9004159
+          ]
+        ]
+      },
+      "id": "way/28160280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/28160319",
+        "highway": "residential",
+        "lanes": "1",
+        "lit": "yes",
+        "name": "Via dei Sabini",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4816318,
+            41.900762
+          ],
+          [
+            12.4807166,
+            41.9005652
+          ],
+          [
+            12.4806235,
+            41.9005447
+          ]
+        ]
+      },
+      "id": "way/28160319"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/28677638",
+        "highway": "residential",
+        "lanes": "1",
+        "lit": "yes",
+        "name": "Piazza della Minerva",
+        "oneway": "yes",
+        "sidewalk": "left",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4773474,
+            41.8977671
+          ],
+          [
+            12.4777756,
+            41.8977505
+          ]
+        ]
+      },
+      "id": "way/28677638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/28677713",
+        "highway": "residential",
+        "lanes": "1",
+        "lit": "yes",
+        "name": "Piazza del Collegio Romano",
+        "oneway": "yes",
+        "surface": "cobblestone"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4797629,
+            41.8977128
+          ],
+          [
+            12.4797968,
+            41.8976965
+          ],
+          [
+            12.4798416,
+            41.8976887
+          ],
+          [
+            12.4801111,
+            41.8977354
+          ],
+          [
+            12.4801982,
+            41.8977525
+          ],
+          [
+            12.4802874,
+            41.8977699
+          ],
+          [
+            12.4808126,
+            41.8979179
+          ],
+          [
+            12.4809176,
+            41.8979474
+          ],
+          [
+            12.480878,
+            41.898094
+          ]
+        ]
+      },
+      "id": "way/28677713"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/28677749",
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "service",
+        "lanes": "1",
+        "lit": "yes",
+        "name": "Piazza San Ignazio",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4799836,
+            41.8992356
+          ],
+          [
+            12.4798235,
+            41.8992194
+          ]
+        ]
+      },
+      "id": "way/28677749"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/28677847",
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "service",
+        "lanes": "1",
+        "lit": "yes",
+        "name": "Piazza di Pietra",
+        "oneway": "yes",
+        "service": "alley",
+        "surface": "sett",
+        "width": "6"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4798044,
+            41.8999306
+          ],
+          [
+            12.4797891,
+            41.8999643
+          ],
+          [
+            12.4796943,
+            41.9001114
+          ]
+        ]
+      },
+      "id": "way/28677847"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/28677879",
+        "bicycle": "yes",
+        "emergency": "yes",
+        "foot": "yes",
+        "highway": "residential",
+        "lanes": "1",
+        "lit": "yes",
+        "motor_vehicle": "private",
+        "name": "Piazza Colonna",
+        "oneway": "yes",
+        "psv": "yes",
+        "sidewalk": "right",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4796544,
+            41.9005473
+          ],
+          [
+            12.4804716,
+            41.9007286
+          ]
+        ]
+      },
+      "id": "way/28677879"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/32454219",
+        "highway": "residential",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Piazza Venezia",
+        "name:etymology:wikidata": "Q641",
+        "oneway": "yes",
+        "source:maxspeed": "IT:urban",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4835075,
+            41.8954624
+          ],
+          [
+            12.4834457,
+            41.8954851
+          ],
+          [
+            12.4833798,
+            41.8955094
+          ],
+          [
+            12.4832771,
+            41.8955575
+          ],
+          [
+            12.4831996,
+            41.8956025
+          ],
+          [
+            12.4831656,
+            41.8956252
+          ],
+          [
+            12.4830858,
+            41.8956775
+          ],
+          [
+            12.4830267,
+            41.8957125
+          ],
+          [
+            12.482981,
+            41.8957361
+          ],
+          [
+            12.4829197,
+            41.8957688
+          ],
+          [
+            12.4828524,
+            41.8958062
+          ]
+        ]
+      },
+      "id": "way/32454219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/32454220",
+        "foot": "yes",
+        "highway": "residential",
+        "lanes": "1",
+        "lit": "yes",
+        "name": "Via dell'Archetto",
+        "oneway": "yes",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4828423,
+            41.8996171
+          ],
+          [
+            12.4829848,
+            41.8992643
+          ],
+          [
+            12.4830822,
+            41.8989344
+          ],
+          [
+            12.483157,
+            41.8986025
+          ]
+        ]
+      },
+      "id": "way/32454220"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/32454221",
+        "access": "designated",
+        "highway": "residential",
+        "lanes": "1",
+        "lit": "yes",
+        "name": "Piazza dei Santi Apostoli",
+        "official_name": "Piazza dei SS. Apostoli",
+        "oneway": "yes",
+        "sidewalk:both": "separate",
+        "surface": "sett",
+        "wikidata": "Q16590058",
+        "wikipedia": "it:Piazza Santi Apostoli"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4826266,
+            41.8985202
+          ],
+          [
+            12.4826757,
+            41.8984221
+          ],
+          [
+            12.4827425,
+            41.898438
+          ],
+          [
+            12.4830814,
+            41.8976561
+          ],
+          [
+            12.4833594,
+            41.8970372
+          ]
+        ]
+      },
+      "id": "way/32454221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/32454222",
+        "highway": "residential",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Piazza Venezia",
+        "name:etymology:wikidata": "Q641",
+        "oneway": "yes",
+        "source:maxspeed": "IT:urban",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4826387,
+            41.8955641
+          ],
+          [
+            12.4827422,
+            41.8955713
+          ],
+          [
+            12.4828318,
+            41.8955706
+          ],
+          [
+            12.4829108,
+            41.8955657
+          ],
+          [
+            12.4829763,
+            41.8955644
+          ],
+          [
+            12.483033,
+            41.8955608
+          ],
+          [
+            12.4831105,
+            41.8955533
+          ],
+          [
+            12.4831587,
+            41.8955495
+          ],
+          [
+            12.483202,
+            41.8955471
+          ],
+          [
+            12.4832364,
+            41.8955359
+          ],
+          [
+            12.4833449,
+            41.8954805
+          ],
+          [
+            12.4833943,
+            41.8954679
+          ],
+          [
+            12.4834326,
+            41.8954622
+          ],
+          [
+            12.4835075,
+            41.8954624
+          ]
+        ]
+      },
+      "id": "way/32454222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/32454492",
+        "highway": "residential",
+        "lanes": "1",
+        "lit": "yes",
+        "name": "Piazza della Madonna di Loreto",
+        "oneway": "yes",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4836306,
+            41.8957
+          ],
+          [
+            12.4836252,
+            41.8957423
+          ],
+          [
+            12.4836094,
+            41.8957869
+          ],
+          [
+            12.4835866,
+            41.8958285
+          ],
+          [
+            12.4834427,
+            41.896057
+          ],
+          [
+            12.4834152,
+            41.8960796
+          ],
+          [
+            12.4833757,
+            41.8960953
+          ],
+          [
+            12.4833364,
+            41.8961007
+          ],
+          [
+            12.4832908,
+            41.8960974
+          ],
+          [
+            12.482973,
+            41.8960121
+          ],
+          [
+            12.4827996,
+            41.8959633
+          ]
+        ]
+      },
+      "id": "way/32454492"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/34860538",
+        "highway": "residential",
+        "lane_markings": "no",
+        "lit": "yes",
+        "name": "Piazza della Cancelleria",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.471817,
+            41.8960034
+          ],
+          [
+            12.4718536,
+            41.8960486
+          ],
+          [
+            12.4720575,
+            41.8964174
+          ]
+        ]
+      },
+      "id": "way/34860538"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/36780068",
+        "highway": "residential",
+        "lanes": "1",
+        "lit": "yes",
+        "name": "Via del Plebiscito",
+        "oneway": "yes",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.481922,
+            41.8966132
+          ],
+          [
+            12.4818679,
+            41.8966242
+          ],
+          [
+            12.4818374,
+            41.8966296
+          ],
+          [
+            12.4818028,
+            41.8966343
+          ],
+          [
+            12.4817683,
+            41.896636
+          ],
+          [
+            12.4817358,
+            41.8966354
+          ],
+          [
+            12.4817143,
+            41.8966344
+          ],
+          [
+            12.4816878,
+            41.8966319
+          ],
+          [
+            12.4807926,
+            41.8964547
+          ]
+        ]
+      },
+      "id": "way/36780068"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/36780069",
+        "highway": "residential",
+        "lanes": "1",
+        "lit": "yes",
+        "name": "Via del Plebiscito",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4802145,
+            41.8963353
+          ],
+          [
+            12.4803305,
+            41.8963588
+          ],
+          [
+            12.4807926,
+            41.8964547
+          ]
+        ]
+      },
+      "id": "way/36780069"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/36780070",
+        "highway": "residential",
+        "lanes": "1",
+        "lit": "yes",
+        "name": "Via della Gatta",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4807926,
+            41.8964547
+          ],
+          [
+            12.4807761,
+            41.8964953
+          ],
+          [
+            12.4805819,
+            41.8969854
+          ],
+          [
+            12.4805545,
+            41.8970544
+          ],
+          [
+            12.4804992,
+            41.8971931
+          ]
+        ]
+      },
+      "id": "way/36780070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/36780071",
+        "highway": "residential",
+        "lanes": "1",
+        "lit": "yes",
+        "name": "Piazza Grazioli",
+        "oneway": "yes",
+        "service": "alley",
+        "sidewalk": "no",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4801158,
+            41.8969718
+          ],
+          [
+            12.4801097,
+            41.8968953
+          ],
+          [
+            12.4801007,
+            41.8967832
+          ]
+        ]
+      },
+      "id": "way/36780071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/36780072",
+        "highway": "residential",
+        "lanes": "1",
+        "lit": "yes",
+        "name": "Via degli Astalli",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4801007,
+            41.8967832
+          ],
+          [
+            12.4802145,
+            41.8963353
+          ]
+        ]
+      },
+      "id": "way/36780072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/40636076",
+        "cycleway:both": "no",
+        "highway": "residential",
+        "lane_markings": "no",
+        "lit": "yes",
+        "name": "Piazza Pollarola",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4732247,
+            41.8958615
+          ],
+          [
+            12.4731798,
+            41.8958812
+          ],
+          [
+            12.4728144,
+            41.8960405
+          ]
+        ]
+      },
+      "id": "way/40636076"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/47844645",
+        "highway": "residential",
+        "lanes": "1",
+        "lit": "yes",
+        "name": "Via dei Soldati",
+        "name:etymology:wikidata": "Q4991371",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4726059,
+            41.9008807
+          ],
+          [
+            12.4725584,
+            41.901031
+          ],
+          [
+            12.4725586,
+            41.9010576
+          ],
+          [
+            12.472403,
+            41.9015141
+          ],
+          [
+            12.4722845,
+            41.9018726
+          ]
+        ]
+      },
+      "id": "way/47844645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/50809107",
+        "highway": "residential",
+        "lit": "yes",
+        "name": "Via della Maschera d'Oro",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4723995,
+            41.9008982
+          ],
+          [
+            12.4723626,
+            41.900901
+          ],
+          [
+            12.4723229,
+            41.9009027
+          ],
+          [
+            12.4722851,
+            41.9009026
+          ],
+          [
+            12.4722219,
+            41.9009005
+          ],
+          [
+            12.4721697,
+            41.9008986
+          ],
+          [
+            12.4718145,
+            41.9008792
+          ],
+          [
+            12.4716975,
+            41.9008697
+          ],
+          [
+            12.4716227,
+            41.9008636
+          ],
+          [
+            12.4716024,
+            41.9008623
+          ],
+          [
+            12.4714946,
+            41.9008586
+          ],
+          [
+            12.4709271,
+            41.9008318
+          ],
+          [
+            12.4708774,
+            41.9008314
+          ],
+          [
+            12.4708316,
+            41.9008364
+          ],
+          [
+            12.4707859,
+            41.9008433
+          ],
+          [
+            12.4707526,
+            41.9008517
+          ],
+          [
+            12.4707192,
+            41.9008621
+          ],
+          [
+            12.4706955,
+            41.9008718
+          ],
+          [
+            12.4706717,
+            41.9008835
+          ],
+          [
+            12.4706285,
+            41.9009125
+          ],
+          [
+            12.4706109,
+            41.9009295
+          ],
+          [
+            12.4705991,
+            41.9009451
+          ]
+        ]
+      },
+      "id": "way/50809107"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/52340756",
+        "highway": "residential",
+        "lanes": "1",
+        "lit": "yes",
+        "name": "Via della Scrofa",
+        "name:etymology:wikidata": "Q25929307",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4748845,
+            41.9001029
+          ],
+          [
+            12.4748908,
+            41.9001524
+          ],
+          [
+            12.4748935,
+            41.9001739
+          ],
+          [
+            12.4748747,
+            41.9005365
+          ]
+        ]
+      },
+      "id": "way/52340756"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/53178941",
+        "highway": "residential",
+        "is_in:city": "Roma",
+        "lanes": "1",
+        "lit": "yes",
+        "name": "Via del Vaccaro",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "source:width": "ARCore",
+        "surface": "sett",
+        "width": "3.8"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.483157,
+            41.8986025
+          ],
+          [
+            12.4835167,
+            41.8986344
+          ],
+          [
+            12.4835724,
+            41.8986398
+          ]
+        ]
+      },
+      "id": "way/53178941"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/53638476",
+        "highway": "residential",
+        "lanes": "1",
+        "lit": "yes",
+        "name": "Piazza di Sant'Apollinare",
+        "name:etymology:wikidata": "Q2301521",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4733328,
+            41.9010749
+          ],
+          [
+            12.4733251,
+            41.9010617
+          ],
+          [
+            12.4733071,
+            41.9010312
+          ],
+          [
+            12.4732901,
+            41.9009991
+          ],
+          [
+            12.4732822,
+            41.9009798
+          ],
+          [
+            12.4732769,
+            41.9009556
+          ],
+          [
+            12.4732772,
+            41.9009072
+          ],
+          [
+            12.4732768,
+            41.9008409
+          ],
+          [
+            12.4732776,
+            41.9007975
+          ],
+          [
+            12.4732773,
+            41.900705
+          ],
+          [
+            12.4732765,
+            41.9006645
+          ],
+          [
+            12.4732772,
+            41.9005633
+          ],
+          [
+            12.473279,
+            41.9005189
+          ],
+          [
+            12.4732794,
+            41.9005079
+          ],
+          [
+            12.4732809,
+            41.9004573
+          ]
+        ]
+      },
+      "id": "way/53638476"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/53638989",
+        "highway": "residential",
+        "lit": "yes",
+        "name": "Via di Sant'Apollinare"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4726059,
+            41.9008807
+          ],
+          [
+            12.472497,
+            41.9008906
+          ],
+          [
+            12.4723995,
+            41.9008982
+          ]
+        ]
+      },
+      "id": "way/53638989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/60615612",
+        "check_date:lit": "2021-10-28",
+        "highway": "residential",
+        "lane_markings": "no",
+        "lit": "yes",
+        "name": "Largo Febo",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4722498,
+            41.8999531
+          ],
+          [
+            12.4723775,
+            41.9001253
+          ],
+          [
+            12.472426,
+            41.9001736
+          ]
+        ]
+      },
+      "id": "way/60615612"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/60615614",
+        "highway": "residential",
+        "lit": "yes",
+        "name": "Via di San Pantaleo",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4722018,
+            41.8977238
+          ],
+          [
+            12.4722598,
+            41.8976727
+          ],
+          [
+            12.472454,
+            41.8974639
+          ],
+          [
+            12.4727302,
+            41.8971855
+          ]
+        ]
+      },
+      "id": "way/60615614"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/60615621",
+        "alt_name": "Corso Vittorio Emanuele II",
+        "highway": "residential",
+        "lanes": "1",
+        "lit": "yes",
+        "name": "Corso Vittorio Emanuele Secondo",
+        "name:etymology:wikidata": "Q168691",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4726709,
+            41.8968673
+          ],
+          [
+            12.4727074,
+            41.8968727
+          ],
+          [
+            12.4727334,
+            41.8968789
+          ],
+          [
+            12.4727791,
+            41.8968924
+          ],
+          [
+            12.4728189,
+            41.8969051
+          ]
+        ]
+      },
+      "id": "way/60615621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/60616318",
+        "highway": "residential",
+        "lanes": "2",
+        "lit": "yes",
+        "name": "Piazza di Sant'Andrea della Valle",
+        "oneway": "yes",
+        "sidewalk": "right",
+        "smoothness": "intermediate",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4745686,
+            41.8967369
+          ],
+          [
+            12.474476,
+            41.8967911
+          ],
+          [
+            12.474391,
+            41.8968082
+          ],
+          [
+            12.474291,
+            41.8968006
+          ],
+          [
+            12.4742255,
+            41.8967751
+          ]
+        ]
+      },
+      "id": "way/60616318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/60616321",
+        "highway": "residential",
+        "lanes": "1",
+        "lit": "yes",
+        "name": "Via dei Crociferi",
+        "oneway": "yes",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4826091,
+            41.9009714
+          ],
+          [
+            12.4824808,
+            41.9009562
+          ],
+          [
+            12.4823356,
+            41.9009365
+          ],
+          [
+            12.4820885,
+            41.9008883
+          ],
+          [
+            12.4816097,
+            41.9008147
+          ]
+        ]
+      },
+      "id": "way/60616321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/107292721",
+        "cycleway:both": "no",
+        "highway": "residential",
+        "lane_markings": "no",
+        "lit": "yes",
+        "name": "Via dei Baullari",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4730379,
+            41.8967375
+          ],
+          [
+            12.4730184,
+            41.8967155
+          ],
+          [
+            12.4729051,
+            41.8965967
+          ],
+          [
+            12.4726068,
+            41.8963305
+          ],
+          [
+            12.4725741,
+            41.8963014
+          ],
+          [
+            12.4725344,
+            41.8962536
+          ]
+        ]
+      },
+      "id": "way/107292721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/107292734",
+        "highway": "residential",
+        "lane_markings": "no",
+        "lit": "yes",
+        "name": "Via dei Baullari",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4731716,
+            41.8967628
+          ],
+          [
+            12.4730891,
+            41.8967592
+          ],
+          [
+            12.4730701,
+            41.8967555
+          ],
+          [
+            12.4730551,
+            41.8967503
+          ],
+          [
+            12.4730379,
+            41.8967375
+          ]
+        ]
+      },
+      "id": "way/107292734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/108865099",
+        "foot": "yes",
+        "highway": "residential",
+        "is_in:city": "Roma",
+        "lanes": "1",
+        "lit": "yes",
+        "name": "Via dell'Umiltà",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "source:width": "ARCore",
+        "surface": "sett",
+        "width": "5.5"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4835979,
+            41.8999211
+          ],
+          [
+            12.4828423,
+            41.8996171
+          ]
+        ]
+      },
+      "id": "way/108865099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/109937959",
+        "highway": "residential",
+        "is_in:city": "Roma",
+        "lane_markings": "no",
+        "lit": "yes",
+        "name": "Via Marco Minghetti",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4811269,
+            41.899832
+          ],
+          [
+            12.4819459,
+            41.9000478
+          ]
+        ]
+      },
+      "id": "way/109937959"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/109937960",
+        "foot": "yes",
+        "highway": "residential",
+        "lit": "yes",
+        "name": "Via dell'Umiltà",
+        "sidewalk": "both",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4828423,
+            41.8996171
+          ],
+          [
+            12.4822283,
+            41.8993656
+          ]
+        ]
+      },
+      "id": "way/109937960"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/110090668",
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "service",
+        "is_in:city": "Roma",
+        "lit": "yes",
+        "motor_vehicle": "private",
+        "name": "Via Lata",
+        "note": "strada privata, divieto di sosta e/o transito ai veicoli dei non residenti?",
+        "service": "alley",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4814639,
+            41.8982777
+          ],
+          [
+            12.4809225,
+            41.8981487
+          ],
+          [
+            12.4808958,
+            41.8981423
+          ]
+        ]
+      },
+      "id": "way/110090668"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/117744327",
+        "foot": "yes",
+        "highway": "residential",
+        "lane_markings": "no",
+        "lit": "yes",
+        "name": "Largo dei Chiavari",
+        "oneway": "yes",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4740393,
+            41.8960056
+          ],
+          [
+            12.4740496,
+            41.8963992
+          ],
+          [
+            12.47405,
+            41.8964151
+          ],
+          [
+            12.4740507,
+            41.8964307
+          ],
+          [
+            12.4740578,
+            41.8965441
+          ]
+        ]
+      },
+      "id": "way/117744327"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/119270956",
+        "access": "no",
+        "bicycle": "yes",
+        "cycleway": "no",
+        "foot": "yes",
+        "highway": "service",
+        "lit": "yes",
+        "name": "Vicolo dell'Aquila"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4725528,
+            41.8968953
+          ],
+          [
+            12.4725391,
+            41.8968625
+          ],
+          [
+            12.4724516,
+            41.8966206
+          ],
+          [
+            12.4724267,
+            41.8965583
+          ]
+        ]
+      },
+      "id": "way/119270956"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/119399331",
+        "bicycle": "yes",
+        "cycleway": "no",
+        "foot": "yes",
+        "highway": "service",
+        "lit": "yes",
+        "name": "Vicolo dell'Aquila",
+        "service": "alley"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4724267,
+            41.8965583
+          ],
+          [
+            12.4722531,
+            41.8965892
+          ],
+          [
+            12.4721344,
+            41.8966101
+          ]
+        ]
+      },
+      "id": "way/119399331"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/119399332",
+        "cycleway:both": "no",
+        "highway": "residential",
+        "lane_markings": "no",
+        "lit": "yes",
+        "name": "Piazza della Cancelleria",
+        "sidewalk": "no",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4725344,
+            41.8962536
+          ],
+          [
+            12.47249,
+            41.8962667
+          ],
+          [
+            12.4720575,
+            41.8964174
+          ]
+        ]
+      },
+      "id": "way/119399332"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/125831638",
+        "highway": "residential",
+        "is_in:city": "Roma",
+        "lit": "yes",
+        "name": "Via del Melone",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4743587,
+            41.8978756
+          ],
+          [
+            12.4743676,
+            41.8977606
+          ],
+          [
+            12.4744156,
+            41.8975204
+          ],
+          [
+            12.4744678,
+            41.89723
+          ],
+          [
+            12.4744854,
+            41.8970821
+          ]
+        ]
+      },
+      "id": "way/125831638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/125831640",
+        "highway": "residential",
+        "is_in:city": "Roma",
+        "lanes": "1",
+        "lit": "yes",
+        "name": "Largo del Teatro Valle",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4746138,
+            41.8968643
+          ],
+          [
+            12.4746162,
+            41.8968742
+          ],
+          [
+            12.4746308,
+            41.8969344
+          ]
+        ]
+      },
+      "id": "way/125831640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/125915785",
+        "foot": "yes",
+        "highway": "residential",
+        "lit": "yes",
+        "name": "Via del Sudario",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4762456,
+            41.8959246
+          ],
+          [
+            12.4757071,
+            41.8959371
+          ],
+          [
+            12.4755081,
+            41.8959543
+          ],
+          [
+            12.4748934,
+            41.8959755
+          ]
+        ]
+      },
+      "id": "way/125915785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/125988148",
+        "bicycle": "yes",
+        "emergency": "yes",
+        "highway": "pedestrian",
+        "lit": "yes",
+        "name": "Piazza Navona",
+        "smoothness": "good",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4731187,
+            41.900009
+          ],
+          [
+            12.473084,
+            41.9000197
+          ],
+          [
+            12.473047,
+            41.9000256
+          ],
+          [
+            12.4730095,
+            41.9000271
+          ],
+          [
+            12.472972,
+            41.9000238
+          ],
+          [
+            12.4729359,
+            41.9000158
+          ],
+          [
+            12.472902,
+            41.9000036
+          ],
+          [
+            12.4728721,
+            41.8999877
+          ],
+          [
+            12.4728448,
+            41.8999674
+          ],
+          [
+            12.4728239,
+            41.8999454
+          ],
+          [
+            12.4728069,
+            41.8999193
+          ],
+          [
+            12.4727974,
+            41.8998928
+          ],
+          [
+            12.4727923,
+            41.8998644
+          ],
+          [
+            12.4727967,
+            41.8998107
+          ],
+          [
+            12.4728467,
+            41.8992057
+          ],
+          [
+            12.4729478,
+            41.8979805
+          ],
+          [
+            12.4729568,
+            41.8979518
+          ],
+          [
+            12.4729712,
+            41.8979243
+          ],
+          [
+            12.4729926,
+            41.8978985
+          ],
+          [
+            12.4730182,
+            41.8978769
+          ],
+          [
+            12.4730484,
+            41.8978584
+          ],
+          [
+            12.4730835,
+            41.8978437
+          ],
+          [
+            12.4731206,
+            41.8978335
+          ],
+          [
+            12.4731599,
+            41.8978283
+          ],
+          [
+            12.4731815,
+            41.8978273
+          ],
+          [
+            12.4731995,
+            41.897828
+          ],
+          [
+            12.4732388,
+            41.8978326
+          ],
+          [
+            12.4732764,
+            41.8978421
+          ],
+          [
+            12.4733114,
+            41.8978559
+          ],
+          [
+            12.4733421,
+            41.8978735
+          ],
+          [
+            12.4733697,
+            41.8978957
+          ],
+          [
+            12.4733905,
+            41.8979196
+          ],
+          [
+            12.4734071,
+            41.8979476
+          ],
+          [
+            12.4734156,
+            41.8979757
+          ],
+          [
+            12.4734194,
+            41.8980058
+          ],
+          [
+            12.4733132,
+            41.8991167
+          ]
+        ]
+      },
+      "id": "way/125988148"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/126080092",
+        "highway": "residential",
+        "lane_markings": "no",
+        "lit": "yes",
+        "name": "Largo di Torre Argentina",
+        "oneway": "yes",
+        "short_name": "Largo Argentina",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4765042,
+            41.8959909
+          ],
+          [
+            12.476486,
+            41.8959781
+          ],
+          [
+            12.4764678,
+            41.8959672
+          ],
+          [
+            12.4764495,
+            41.8959571
+          ],
+          [
+            12.4764285,
+            41.895947
+          ],
+          [
+            12.4764077,
+            41.8959383
+          ],
+          [
+            12.4763851,
+            41.8959315
+          ],
+          [
+            12.476353,
+            41.8959277
+          ],
+          [
+            12.4763199,
+            41.8959253
+          ],
+          [
+            12.4762852,
+            41.895925
+          ],
+          [
+            12.4762456,
+            41.8959246
+          ]
+        ]
+      },
+      "id": "way/126080092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128665306",
+        "highway": "residential",
+        "is_in:city": "Roma",
+        "lanes": "1",
+        "lit": "yes",
+        "name": "Piazza del Collegio Romano",
+        "oneway": "yes",
+        "surface": "cobblestone"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.480878,
+            41.898094
+          ],
+          [
+            12.4801399,
+            41.8978811
+          ],
+          [
+            12.479825,
+            41.8977903
+          ],
+          [
+            12.4797938,
+            41.8977814
+          ],
+          [
+            12.4797681,
+            41.8977684
+          ],
+          [
+            12.4797589,
+            41.8977397
+          ],
+          [
+            12.4797629,
+            41.8977128
+          ]
+        ]
+      },
+      "id": "way/128665306"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128665308",
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "service",
+        "lanes": "1",
+        "lit": "yes",
+        "name": "Piazza San Ignazio",
+        "oneway": "yes",
+        "surface": "sett",
+        "wikidata": "Q1120890",
+        "wikipedia": "it:Piazza Sant'Ignazio"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4798235,
+            41.8992194
+          ],
+          [
+            12.4795957,
+            41.899192
+          ]
+        ]
+      },
+      "id": "way/128665308"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128665325",
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "service",
+        "is_in:city": "Roma",
+        "lanes": "1",
+        "lit": "yes",
+        "name": "Via del Caravita",
+        "oneway": "yes",
+        "service": "alley",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4805917,
+            41.8992885
+          ],
+          [
+            12.4801357,
+            41.8992445
+          ],
+          [
+            12.4799836,
+            41.8992356
+          ]
+        ]
+      },
+      "id": "way/128665325"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128665326",
+        "highway": "residential",
+        "lanes": "1",
+        "lit": "yes",
+        "name": "Via dei Cestari",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4773304,
+            41.8976732
+          ],
+          [
+            12.4773397,
+            41.8977247
+          ],
+          [
+            12.4773474,
+            41.8977671
+          ]
+        ]
+      },
+      "id": "way/128665326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128665340",
+        "highway": "residential",
+        "is_in:city": "Roma",
+        "lit": "yes",
+        "name": "Largo del Teatro Valle",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4746308,
+            41.8969344
+          ],
+          [
+            12.4746067,
+            41.8970558
+          ],
+          [
+            12.4745479,
+            41.8970685
+          ],
+          [
+            12.4744854,
+            41.8970821
+          ]
+        ]
+      },
+      "id": "way/128665340"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128665341",
+        "highway": "residential",
+        "is_in:city": "Roma",
+        "lanes": "1",
+        "lit": "yes",
+        "name": "Piazza di Sant'Andrea della Valle",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4745686,
+            41.8967369
+          ],
+          [
+            12.4746138,
+            41.8968643
+          ]
+        ]
+      },
+      "id": "way/128665341"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128665345",
+        "foot": "yes",
+        "highway": "residential",
+        "lane_markings": "no",
+        "lit": "yes",
+        "name": "Piazza Dei Carpettari",
+        "oneway": "yes",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4756326,
+            41.8981193
+          ],
+          [
+            12.4756097,
+            41.8979567
+          ],
+          [
+            12.475605,
+            41.8977984
+          ]
+        ]
+      },
+      "id": "way/128665345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128665348",
+        "bicycle": "yes",
+        "highway": "pedestrian",
+        "lit": "yes",
+        "name": "Piazza San Ignazio",
+        "surface": "sett",
+        "wikidata": "Q1120890",
+        "wikipedia": "it:Piazza Sant'Ignazio"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4798575,
+            41.8994605
+          ],
+          [
+            12.4798639,
+            41.8993981
+          ],
+          [
+            12.4798624,
+            41.8993382
+          ],
+          [
+            12.4798526,
+            41.8992885
+          ],
+          [
+            12.4798235,
+            41.8992194
+          ]
+        ]
+      },
+      "id": "way/128665348"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128665349",
+        "highway": "residential",
+        "lane_markings": "no",
+        "lit": "yes",
+        "name": "Piazza della Cancelleria",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4720575,
+            41.8964174
+          ],
+          [
+            12.4721344,
+            41.8966101
+          ],
+          [
+            12.4722524,
+            41.896924
+          ],
+          [
+            12.4722626,
+            41.8969524
+          ]
+        ]
+      },
+      "id": "way/128665349"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128665353",
+        "foot": "yes",
+        "highway": "residential",
+        "lanes": "1",
+        "lit": "yes",
+        "name": "Piazza Di San Eustachio",
+        "oneway": "yes",
+        "sidewalk": "right",
+        "smoothness": "intermediate",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4750858,
+            41.8982581
+          ],
+          [
+            12.4750859,
+            41.8982727
+          ],
+          [
+            12.4750883,
+            41.8982912
+          ],
+          [
+            12.475096,
+            41.8983095
+          ],
+          [
+            12.4751095,
+            41.8983243
+          ],
+          [
+            12.4751263,
+            41.8983351
+          ],
+          [
+            12.4751481,
+            41.8983434
+          ],
+          [
+            12.4751739,
+            41.898347
+          ],
+          [
+            12.4752616,
+            41.8983515
+          ],
+          [
+            12.4755548,
+            41.8983671
+          ],
+          [
+            12.4755898,
+            41.8983698
+          ]
+        ]
+      },
+      "id": "way/128665353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128740204",
+        "highway": "residential",
+        "lanes": "1",
+        "lit": "yes",
+        "name": "Via delle Coppelle",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4748747,
+            41.9005365
+          ],
+          [
+            12.4752011,
+            41.9005245
+          ]
+        ]
+      },
+      "id": "way/128740204"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128740206",
+        "highway": "residential",
+        "lanes": "1",
+        "layer": "-1",
+        "lit": "yes",
+        "name": "Via di Sant'Agostino",
+        "name:etymology:wikidata": "Q8018",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "surface": "sett",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4740644,
+            41.9005246
+          ],
+          [
+            12.4739722,
+            41.9005228
+          ]
+        ]
+      },
+      "id": "way/128740206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128740207",
+        "highway": "residential",
+        "lanes": "1",
+        "lit": "yes",
+        "name": "Via di Sant'Agostino",
+        "name:etymology:wikidata": "Q8018",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4739722,
+            41.9005228
+          ],
+          [
+            12.4739133,
+            41.9005218
+          ],
+          [
+            12.4738749,
+            41.9005195
+          ],
+          [
+            12.4738437,
+            41.9005132
+          ],
+          [
+            12.4738089,
+            41.9005012
+          ],
+          [
+            12.4737756,
+            41.9004846
+          ],
+          [
+            12.473747,
+            41.9004649
+          ],
+          [
+            12.4737219,
+            41.9004415
+          ]
+        ]
+      },
+      "id": "way/128740207"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128740286",
+        "barrier": "bollard",
+        "bicycle": "yes",
+        "bollard": "rising",
+        "foot": "yes",
+        "motor_vehicle": "private"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4748338,
+            41.8994538
+          ],
+          [
+            12.4749724,
+            41.8994629
+          ],
+          [
+            12.4750953,
+            41.8994719
+          ]
+        ]
+      },
+      "id": "way/128740286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128750728",
+        "bicycle": "yes",
+        "highway": "pedestrian",
+        "lit": "yes",
+        "name": "Piazza Navona",
+        "smoothness": "intermediate",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4727503,
+            41.8992033
+          ],
+          [
+            12.4728467,
+            41.8992057
+          ],
+          [
+            12.4729099,
+            41.8992086
+          ],
+          [
+            12.47325,
+            41.8991124
+          ],
+          [
+            12.4733132,
+            41.8991167
+          ]
+        ]
+      },
+      "id": "way/128750728"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128752446",
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "residential",
+        "lit": "yes",
+        "name": "Via dei Cestari",
+        "oneway": "yes",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4773304,
+            41.8976732
+          ],
+          [
+            12.4773487,
+            41.8972737
+          ],
+          [
+            12.47736,
+            41.8969468
+          ]
+        ]
+      },
+      "id": "way/128752446"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/130434078",
+        "highway": "residential",
+        "lane_markings": "no",
+        "lit": "yes",
+        "name": "Via di Tor Sanguigna",
+        "oneway": "yes",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.472426,
+            41.9001736
+          ],
+          [
+            12.4725106,
+            41.9002682
+          ],
+          [
+            12.4725223,
+            41.9002792
+          ],
+          [
+            12.4725407,
+            41.9002964
+          ]
+        ]
+      },
+      "id": "way/130434078"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/130807527",
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "service",
+        "lit": "yes",
+        "name": "Piazza San Ignazio",
+        "surface": "sett",
+        "wikidata": "Q1120890",
+        "wikipedia": "it:Piazza Sant'Ignazio"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4794469,
+            41.8991618
+          ],
+          [
+            12.4795957,
+            41.899192
+          ]
+        ]
+      },
+      "id": "way/130807527"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/130807540",
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "service",
+        "layer": "-1",
+        "maxheight": "default",
+        "name": "Via di Sant'Ignazio",
+        "oneway": "yes",
+        "service": "alley",
+        "surface": "sett",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.479545,
+            41.8984009
+          ],
+          [
+            12.4795623,
+            41.8983128
+          ]
+        ]
+      },
+      "id": "way/130807540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/130807541",
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "service",
+        "lanes": "1",
+        "lit": "yes",
+        "name": "Via di Sant'Ignazio",
+        "oneway": "yes",
+        "service": "alley",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4795623,
+            41.8983128
+          ],
+          [
+            12.4796171,
+            41.8980677
+          ],
+          [
+            12.4796944,
+            41.8978059
+          ],
+          [
+            12.4797198,
+            41.8977198
+          ]
+        ]
+      },
+      "id": "way/130807541"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/131146042",
+        "bicycle": "yes",
+        "highway": "pedestrian",
+        "lit": "yes",
+        "name": "Via della Maddalena",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4766007,
+            41.9001962
+          ],
+          [
+            12.4765807,
+            41.9002657
+          ],
+          [
+            12.4765643,
+            41.9003574
+          ],
+          [
+            12.4765555,
+            41.9004886
+          ]
+        ]
+      },
+      "id": "way/131146042"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/131146070",
+        "barrier": "bollard",
+        "bicycle": "yes",
+        "bollard": "rising",
+        "foot": "yes",
+        "motor_vehicle": "private"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4748144,
+            41.9000121
+          ],
+          [
+            12.4748842,
+            41.9000133
+          ],
+          [
+            12.4749454,
+            41.9000144
+          ],
+          [
+            12.4750045,
+            41.9000133
+          ]
+        ]
+      },
+      "id": "way/131146070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/140031904",
+        "bicycle": "yes",
+        "demolished:highway": "footway",
+        "lit": "no",
+        "name": "Piazza Venezia",
+        "name:etymology:wikidata": "Q641",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4822891,
+            41.8959603
+          ],
+          [
+            12.4826609,
+            41.8960444
+          ]
+        ]
+      },
+      "id": "way/140031904"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/140031905",
+        "bicycle": "yes",
+        "crossing": "marked",
+        "crossing:island": "no",
+        "crossing:markings": "zebra",
+        "demolished:highway": "footway",
+        "footway": "crossing",
+        "lit": "yes",
+        "name": "Piazza Venezia",
+        "name:etymology:wikidata": "Q641",
+        "surface": "sett",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4826609,
+            41.8960444
+          ],
+          [
+            12.4827505,
+            41.8960672
+          ],
+          [
+            12.4828765,
+            41.8960992
+          ]
+        ]
+      },
+      "id": "way/140031905"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/154667397",
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "service",
+        "lit": "yes",
+        "name": "Via della Minerva",
+        "oneway": "yes",
+        "service": "alley",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4773474,
+            41.8977671
+          ],
+          [
+            12.4773243,
+            41.8981754
+          ]
+        ]
+      },
+      "id": "way/154667397"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/159654551",
+        "bicycle": "yes",
+        "crossing": "uncontrolled",
+        "crossing:markings": "zebra",
+        "footway": "crossing",
+        "highway": "footway",
+        "lit": "yes",
+        "name": "Piazza di Montecitorio",
+        "surface": "asphalt",
+        "wikidata": "Q2579746",
+        "wikipedia": "it:Piazza di Monte Citorio"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4803459,
+            41.9012205
+          ],
+          [
+            12.4802593,
+            41.9012021
+          ]
+        ]
+      },
+      "id": "way/159654551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/174639749",
+        "highway": "residential",
+        "lit": "yes",
+        "name": "Piazza Di San Eustachio",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4759129,
+            41.8984362
+          ],
+          [
+            12.4758708,
+            41.8984365
+          ],
+          [
+            12.4758308,
+            41.8984353
+          ],
+          [
+            12.4757895,
+            41.8984321
+          ],
+          [
+            12.4757595,
+            41.8984274
+          ],
+          [
+            12.4757282,
+            41.8984208
+          ],
+          [
+            12.4756961,
+            41.8984126
+          ],
+          [
+            12.4756721,
+            41.8984044
+          ],
+          [
+            12.4756413,
+            41.8983938
+          ],
+          [
+            12.4755898,
+            41.8983698
+          ]
+        ]
+      },
+      "id": "way/174639749"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/174639752",
+        "highway": "residential",
+        "lit": "yes",
+        "name": "Via di Sant'Eustachio",
+        "sidewalk": "both",
+        "source": "survey",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4759129,
+            41.8984362
+          ],
+          [
+            12.475953,
+            41.8984207
+          ]
+        ]
+      },
+      "id": "way/174639752"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/181029797",
+        "highway": "residential",
+        "lanes": "1",
+        "lit": "yes",
+        "name": "Piazza dei Santi Apostoli",
+        "oneway": "yes",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4833594,
+            41.8970372
+          ],
+          [
+            12.4833516,
+            41.8968587
+          ]
+        ]
+      },
+      "id": "way/181029797"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/187776468",
+        "highway": "residential",
+        "lanes": "1",
+        "lit": "yes",
+        "name": "Via di Sant'Agostino",
+        "name:etymology:wikidata": "Q8018",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4741013,
+            41.9005257
+          ],
+          [
+            12.4740644,
+            41.9005246
+          ]
+        ]
+      },
+      "id": "way/187776468"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/187776469",
+        "highway": "residential",
+        "lit": "yes",
+        "name": "Via di Santa Maria dell'Anima",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4722828,
+            41.899188
+          ],
+          [
+            12.4722612,
+            41.8995476
+          ],
+          [
+            12.4722458,
+            41.8998027
+          ],
+          [
+            12.472245,
+            41.899829
+          ],
+          [
+            12.4722498,
+            41.8999531
+          ]
+        ]
+      },
+      "id": "way/187776469"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/190525636",
+        "highway": "residential",
+        "lit": "yes",
+        "name": "Via Poli",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4826759,
+            41.9015329
+          ],
+          [
+            12.4828417,
+            41.9011759
+          ],
+          [
+            12.4829259,
+            41.9009945
+          ]
+        ]
+      },
+      "id": "way/190525636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/191158665",
+        "highway": "residential",
+        "lanes": "1",
+        "name": "Piazza del Gesù",
+        "oneway": "yes",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4791883,
+            41.8960027
+          ],
+          [
+            12.4790347,
+            41.8959468
+          ],
+          [
+            12.4790001,
+            41.8959306
+          ],
+          [
+            12.4789785,
+            41.8959148
+          ],
+          [
+            12.4789694,
+            41.895904
+          ],
+          [
+            12.4789621,
+            41.8958915
+          ],
+          [
+            12.4789575,
+            41.8958795
+          ],
+          [
+            12.4789534,
+            41.8958675
+          ],
+          [
+            12.4789499,
+            41.8958516
+          ],
+          [
+            12.478951,
+            41.8958334
+          ],
+          [
+            12.4789577,
+            41.8958077
+          ]
+        ]
+      },
+      "id": "way/191158665"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/202148094",
+        "highway": "residential",
+        "is_in:city": "Roma",
+        "lit": "yes",
+        "name": "Via dei Santi Apostoli",
+        "official_name": "Via dei SS. Apostoli"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4826266,
+            41.8985202
+          ],
+          [
+            12.4825745,
+            41.8985102
+          ],
+          [
+            12.4815891,
+            41.8983231
+          ]
+        ]
+      },
+      "id": "way/202148094"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/202151118",
+        "highway": "residential",
+        "is_in:city": "Roma",
+        "lit": "yes",
+        "name": "Via della Pilotta",
+        "sidewalk": "no",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4830822,
+            41.8989344
+          ],
+          [
+            12.4837036,
+            41.898957
+          ]
+        ]
+      },
+      "id": "way/202151118"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/203752583",
+        "highway": "residential",
+        "lane_markings": "no",
+        "lit": "yes",
+        "name": "Piazza Pollarola",
+        "service": "alley",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4732247,
+            41.8958615
+          ],
+          [
+            12.4732627,
+            41.8958954
+          ]
+        ]
+      },
+      "id": "way/203752583"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/203752584",
+        "highway": "residential",
+        "lane_markings": "no",
+        "lit": "yes",
+        "name": "Piazza del Paradiso",
+        "service": "alley",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4732627,
+            41.8958954
+          ],
+          [
+            12.4732812,
+            41.8959076
+          ],
+          [
+            12.4733024,
+            41.8959198
+          ],
+          [
+            12.4733236,
+            41.8959296
+          ],
+          [
+            12.4733488,
+            41.8959393
+          ],
+          [
+            12.4733752,
+            41.895947
+          ],
+          [
+            12.4734017,
+            41.8959516
+          ],
+          [
+            12.4734559,
+            41.895959
+          ],
+          [
+            12.4735377,
+            41.8959656
+          ]
+        ]
+      },
+      "id": "way/203752584"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/203752585",
+        "cycleway:both": "no",
+        "highway": "residential",
+        "lane_markings": "no",
+        "lit": "yes",
+        "name": "Piazza del Teatro di Pompeo",
+        "sidewalk": "no",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4728144,
+            41.8960405
+          ],
+          [
+            12.4725344,
+            41.8962536
+          ]
+        ]
+      },
+      "id": "way/203752585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/203752588",
+        "bicycle": "yes",
+        "highway": "residential",
+        "lit": "yes",
+        "name": "Via dei Cestari"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.47736,
+            41.8969468
+          ],
+          [
+            12.4773618,
+            41.8968761
+          ]
+        ]
+      },
+      "id": "way/203752588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/203752590",
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "service",
+        "lit": "yes",
+        "name": "Via del Seminario",
+        "oneway": "no",
+        "service": "alley",
+        "surface": "sett",
+        "width": "4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4793833,
+            41.8991472
+          ],
+          [
+            12.4794469,
+            41.8991618
+          ]
+        ]
+      },
+      "id": "way/203752590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/203752591",
+        "bicycle": "yes",
+        "highway": "service",
+        "lit": "yes",
+        "name": "Via della Minerva",
+        "oneway": "yes",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4771849,
+            41.8990262
+          ],
+          [
+            12.4771959,
+            41.8990055
+          ]
+        ]
+      },
+      "id": "way/203752591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/203858799",
+        "highway": "residential",
+        "lit": "yes",
+        "name": "Piazza dei Crociferi",
+        "oneway": "yes",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4829259,
+            41.9009945
+          ],
+          [
+            12.4826091,
+            41.9009714
+          ]
+        ]
+      },
+      "id": "way/203858799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/203858800",
+        "highway": "residential",
+        "is_in:city": "Roma",
+        "lane_markings": "no",
+        "lit": "yes",
+        "name": "Via Marco Minghetti",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4825781,
+            41.9001849
+          ],
+          [
+            12.4819459,
+            41.9000478
+          ]
+        ]
+      },
+      "id": "way/203858800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/203858806",
+        "highway": "residential",
+        "is_in:city": "Roma",
+        "lane_markings": "no",
+        "lit": "yes",
+        "name": "Via delle Vergini",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4825781,
+            41.9001849
+          ],
+          [
+            12.4824689,
+            41.9004382
+          ]
+        ]
+      },
+      "id": "way/203858806"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/203858809",
+        "highway": "residential",
+        "lanes": "1",
+        "lit": "yes",
+        "name": "Via di Santa Maria in Via",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4812717,
+            41.9017037
+          ],
+          [
+            12.4813122,
+            41.9016123
+          ],
+          [
+            12.48135,
+            41.9015173
+          ],
+          [
+            12.4814344,
+            41.9013297
+          ],
+          [
+            12.4815511,
+            41.9010085
+          ],
+          [
+            12.4815965,
+            41.9008536
+          ],
+          [
+            12.4816097,
+            41.9008147
+          ],
+          [
+            12.4816318,
+            41.900762
+          ]
+        ]
+      },
+      "id": "way/203858809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/203858811",
+        "highway": "residential",
+        "lanes": "1",
+        "lit": "yes",
+        "name": "Via di Santa Maria in Via",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4819459,
+            41.9000478
+          ],
+          [
+            12.4818159,
+            41.9003265
+          ]
+        ]
+      },
+      "id": "way/203858811"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/203984757",
+        "highway": "residential",
+        "lit": "yes",
+        "name": "Largo Giuseppe Toniolo",
+        "service": "alley",
+        "sidewalk": "no",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4748126,
+            41.900101
+          ],
+          [
+            12.4748845,
+            41.9001029
+          ]
+        ]
+      },
+      "id": "way/203984757"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/203984758",
+        "foot": "yes",
+        "highway": "residential",
+        "lit": "yes",
+        "name": "Piazza Vidoni",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4746976,
+            41.8959866
+          ],
+          [
+            12.4748934,
+            41.8959755
+          ]
+        ]
+      },
+      "id": "way/203984758"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/204003771",
+        "bicycle": "yes",
+        "emergency": "yes",
+        "highway": "pedestrian",
+        "lit": "yes",
+        "motor_vehicle": "private",
+        "name": "Via dei Coronari",
+        "oneway:motor_vehicle": "yes",
+        "segregated": "no",
+        "sidewalk": "no",
+        "surface": "sett",
+        "wikidata": "Q1032187"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4724897,
+            41.9004407
+          ],
+          [
+            12.4723457,
+            41.9004439
+          ],
+          [
+            12.4721976,
+            41.900446
+          ],
+          [
+            12.4721775,
+            41.9004471
+          ],
+          [
+            12.4721592,
+            41.9004487
+          ],
+          [
+            12.4721429,
+            41.9004508
+          ],
+          [
+            12.4721283,
+            41.9004533
+          ],
+          [
+            12.4721151,
+            41.9004566
+          ],
+          [
+            12.4721004,
+            41.9004594
+          ],
+          [
+            12.4720837,
+            41.9004615
+          ],
+          [
+            12.4720654,
+            41.9004631
+          ],
+          [
+            12.4719385,
+            41.900469
+          ],
+          [
+            12.4718015,
+            41.9004754
+          ],
+          [
+            12.47177,
+            41.9004766
+          ],
+          [
+            12.4717384,
+            41.9004774
+          ],
+          [
+            12.4717076,
+            41.9004779
+          ],
+          [
+            12.4716766,
+            41.9004781
+          ],
+          [
+            12.4716153,
+            41.9004778
+          ],
+          [
+            12.4713247,
+            41.9004738
+          ],
+          [
+            12.4712817,
+            41.9004734
+          ],
+          [
+            12.4709222,
+            41.9004765
+          ],
+          [
+            12.4708984,
+            41.9004763
+          ],
+          [
+            12.4708447,
+            41.9004772
+          ],
+          [
+            12.4706593,
+            41.9004807
+          ],
+          [
+            12.4706254,
+            41.9004805
+          ],
+          [
+            12.4701976,
+            41.9004784
+          ],
+          [
+            12.4698335,
+            41.9004862
+          ],
+          [
+            12.4695042,
+            41.9004964
+          ],
+          [
+            12.4694173,
+            41.9005006
+          ],
+          [
+            12.4690622,
+            41.90052
+          ],
+          [
+            12.4689979,
+            41.9005211
+          ],
+          [
+            12.4689874,
+            41.9005216
+          ],
+          [
+            12.4689609,
+            41.9005221
+          ],
+          [
+            12.4684777,
+            41.9005316
+          ],
+          [
+            12.4683264,
+            41.9005267
+          ],
+          [
+            12.4681724,
+            41.9005233
+          ],
+          [
+            12.4677935,
+            41.9005365
+          ],
+          [
+            12.467653,
+            41.9005483
+          ]
+        ]
+      },
+      "id": "way/204003771"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/207376925",
+        "bicycle": "yes",
+        "highway": "pedestrian",
+        "lit": "yes",
+        "name": "Via dei Pastini",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4789754,
+            41.89988
+          ],
+          [
+            12.4787996,
+            41.8997905
+          ],
+          [
+            12.4787158,
+            41.8997341
+          ],
+          [
+            12.4787471,
+            41.8996844
+          ],
+          [
+            12.4785931,
+            41.8996396
+          ],
+          [
+            12.47844,
+            41.8995622
+          ],
+          [
+            12.4783985,
+            41.8995383
+          ],
+          [
+            12.478355,
+            41.8995255
+          ],
+          [
+            12.4779851,
+            41.899459
+          ],
+          [
+            12.4772869,
+            41.8993557
+          ]
+        ]
+      },
+      "id": "way/207376925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/212128601",
+        "highway": "residential",
+        "lanes": "1",
+        "lit": "yes",
+        "name": "Via dei Redentoristi",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4749916,
+            41.8969808
+          ],
+          [
+            12.4750881,
+            41.8969832
+          ]
+        ]
+      },
+      "id": "way/212128601"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/220545802",
+        "highway": "residential",
+        "lit": "yes",
+        "name": "Piazza di San Pantaleo",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4728457,
+            41.8970765
+          ],
+          [
+            12.4727302,
+            41.8971855
+          ],
+          [
+            12.4725998,
+            41.8970441
+          ],
+          [
+            12.4725704,
+            41.8970106
+          ],
+          [
+            12.4725418,
+            41.8969715
+          ]
+        ]
+      },
+      "id": "way/220545802"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/220545803",
+        "highway": "residential",
+        "lane_markings": "no",
+        "lit": "yes",
+        "name": "Piazza di San Pantaleo",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4728189,
+            41.8969051
+          ],
+          [
+            12.4728358,
+            41.8969119
+          ],
+          [
+            12.4728505,
+            41.8969195
+          ],
+          [
+            12.4728728,
+            41.8969339
+          ],
+          [
+            12.4728944,
+            41.8969514
+          ],
+          [
+            12.4729087,
+            41.8969668
+          ],
+          [
+            12.4729176,
+            41.8969766
+          ],
+          [
+            12.4729218,
+            41.8969864
+          ],
+          [
+            12.4729214,
+            41.8969954
+          ],
+          [
+            12.4729187,
+            41.8970044
+          ],
+          [
+            12.4729102,
+            41.8970177
+          ],
+          [
+            12.4728457,
+            41.8970765
+          ]
+        ]
+      },
+      "id": "way/220545803"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/249468114",
+        "highway": "residential",
+        "lanes": "1",
+        "lit": "yes",
+        "name": "Via degli Astalli",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4802145,
+            41.8963353
+          ],
+          [
+            12.48024,
+            41.8962615
+          ]
+        ]
+      },
+      "id": "way/249468114"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/265490612",
+        "highway": "residential",
+        "lit": "yes",
+        "name": "Piazza della Cancelleria",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4722626,
+            41.8969524
+          ],
+          [
+            12.4722814,
+            41.8970032
+          ]
+        ]
+      },
+      "id": "way/265490612"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/284757631",
+        "barrier": "bollard",
+        "bicycle": "yes",
+        "foot": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4728616,
+            41.8977783
+          ],
+          [
+            12.473181,
+            41.8978011
+          ],
+          [
+            12.4735003,
+            41.8978471
+          ]
+        ]
+      },
+      "id": "way/284757631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/287483278",
+        "highway": "residential",
+        "lanes": "1",
+        "lit": "yes",
+        "name": "Piazza di San Marco",
+        "oneway": "yes",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4814982,
+            41.8953136
+          ],
+          [
+            12.4814842,
+            41.8953547
+          ],
+          [
+            12.4813897,
+            41.8956129
+          ],
+          [
+            12.4813898,
+            41.8956355
+          ],
+          [
+            12.481394,
+            41.8956563
+          ],
+          [
+            12.4814069,
+            41.8956706
+          ],
+          [
+            12.4816954,
+            41.895729
+          ],
+          [
+            12.4820736,
+            41.8958025
+          ],
+          [
+            12.4821122,
+            41.8958069
+          ],
+          [
+            12.4821515,
+            41.8958048
+          ],
+          [
+            12.4821869,
+            41.8957964
+          ],
+          [
+            12.482212,
+            41.8957842
+          ]
+        ]
+      },
+      "id": "way/287483278"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/287484715",
+        "highway": "residential",
+        "lanes": "1",
+        "name": "Via degli Astalli",
+        "oneway": "yes",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.480658,
+            41.8952031
+          ],
+          [
+            12.4802653,
+            41.8961966
+          ],
+          [
+            12.48024,
+            41.8962615
+          ]
+        ]
+      },
+      "id": "way/287484715"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/292493655",
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "pedestrian",
+        "name": "Piazza Colonna",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4796581,
+            41.9005686
+          ],
+          [
+            12.4796712,
+            41.900628
+          ],
+          [
+            12.4795017,
+            41.9010295
+          ],
+          [
+            12.4794233,
+            41.9010886
+          ]
+        ]
+      },
+      "id": "way/292493655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/292494318",
+        "highway": "residential",
+        "lane_markings": "no",
+        "lit": "yes",
+        "name": "Via di Santa Maria dell'Anima",
+        "oneway": "yes",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4723426,
+            41.8979343
+          ],
+          [
+            12.4723279,
+            41.8984544
+          ],
+          [
+            12.4723237,
+            41.8986029
+          ],
+          [
+            12.4723185,
+            41.8987853
+          ],
+          [
+            12.4722828,
+            41.899188
+          ]
+        ]
+      },
+      "id": "way/292494318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/366692678",
+        "bicycle": "yes",
+        "highway": "service",
+        "lanes": "1",
+        "lit": "yes",
+        "name": "Piazza San Ignazio",
+        "oneway": "yes",
+        "surface": "sett",
+        "wikidata": "Q1120890",
+        "wikipedia": "it:Piazza Sant'Ignazio"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4795957,
+            41.899192
+          ],
+          [
+            12.4795127,
+            41.8992696
+          ],
+          [
+            12.4794982,
+            41.8993026
+          ],
+          [
+            12.4794914,
+            41.8993561
+          ],
+          [
+            12.4794746,
+            41.8994188
+          ]
+        ]
+      },
+      "id": "way/366692678"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/366692685",
+        "highway": "residential",
+        "lanes": "2",
+        "lit": "yes",
+        "name": "Via degli Uffici del Vicario",
+        "sidewalk": "left",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4768677,
+            41.9011267
+          ],
+          [
+            12.4770631,
+            41.9011057
+          ]
+        ]
+      },
+      "id": "way/366692685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/366692692",
+        "highway": "residential",
+        "lanes": "1",
+        "lit": "yes",
+        "name": "Via di Santa Maria in Via",
+        "oneway": "yes",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4818159,
+            41.9003265
+          ],
+          [
+            12.4816496,
+            41.90072
+          ],
+          [
+            12.4816318,
+            41.900762
+          ]
+        ]
+      },
+      "id": "way/366692692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/366694003",
+        "highway": "residential",
+        "lanes": "1",
+        "lit": "yes",
+        "name": "Via Metastasio",
+        "name:etymology:wikidata": "Q29473",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4762273,
+            41.9014795
+          ],
+          [
+            12.4762801,
+            41.9013904
+          ],
+          [
+            12.4763535,
+            41.9012817
+          ],
+          [
+            12.4763975,
+            41.9012412
+          ],
+          [
+            12.4764512,
+            41.9012074
+          ],
+          [
+            12.47658,
+            41.9011702
+          ]
+        ]
+      },
+      "id": "way/366694003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/370495506",
+        "bicycle": "yes",
+        "highway": "pedestrian",
+        "lit": "yes",
+        "name": "Piazza Colonna",
+        "surface": "sett",
+        "wikidata": "Q2579746",
+        "wikipedia": "it:Piazza di Monte Citorio"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4802593,
+            41.9012021
+          ],
+          [
+            12.4795017,
+            41.9010295
+          ],
+          [
+            12.4794031,
+            41.9010144
+          ]
+        ]
+      },
+      "id": "way/370495506"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/428514822",
+        "highway": "residential",
+        "lanes": "1",
+        "lit": "yes",
+        "name": "Piazza Dei Carpettari",
+        "oneway": "yes",
+        "sidewalk": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4755898,
+            41.8983698
+          ],
+          [
+            12.4756009,
+            41.898344
+          ],
+          [
+            12.4756094,
+            41.898323
+          ],
+          [
+            12.4756134,
+            41.8982986
+          ],
+          [
+            12.4756157,
+            41.8982665
+          ],
+          [
+            12.4756162,
+            41.8982589
+          ],
+          [
+            12.4756326,
+            41.8981193
+          ]
+        ]
+      },
+      "id": "way/428514822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/432946455",
+        "highway": "residential",
+        "lanes": "2",
+        "lit": "yes",
+        "name": "Piazza della Madonna di Loreto",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4836306,
+            41.8957
+          ],
+          [
+            12.4835663,
+            41.8956129
+          ],
+          [
+            12.4835075,
+            41.8954624
+          ]
+        ]
+      },
+      "id": "way/432946455"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/432946460",
+        "highway": "residential",
+        "lanes": "2",
+        "lit": "yes",
+        "name": "Via degli Uffici del Vicario",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.47658,
+            41.9011702
+          ],
+          [
+            12.4766786,
+            41.9011543
+          ],
+          [
+            12.4768677,
+            41.9011267
+          ]
+        ]
+      },
+      "id": "way/432946460"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/624656554",
+        "alt_name": "Piazza di Montecitorio",
+        "bicycle": "yes",
+        "highway": "pedestrian",
+        "lit": "yes",
+        "name": "Piazza di Monte Citorio",
+        "surface": "sett",
+        "wikidata": "Q2579746",
+        "wikipedia": "it:Piazza di Monte Citorio"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4794031,
+            41.9010144
+          ],
+          [
+            12.4793004,
+            41.900995
+          ],
+          [
+            12.4792317,
+            41.9009829
+          ],
+          [
+            12.4791603,
+            41.9009723
+          ],
+          [
+            12.4790928,
+            41.9009634
+          ],
+          [
+            12.4790016,
+            41.9009536
+          ],
+          [
+            12.4789213,
+            41.900946
+          ],
+          [
+            12.4788438,
+            41.9009398
+          ],
+          [
+            12.478764,
+            41.9009358
+          ],
+          [
+            12.4787096,
+            41.9009347
+          ],
+          [
+            12.4786525,
+            41.900935
+          ],
+          [
+            12.478585,
+            41.9009397
+          ],
+          [
+            12.4785147,
+            41.9009457
+          ],
+          [
+            12.4784569,
+            41.9009517
+          ],
+          [
+            12.4783816,
+            41.9009606
+          ],
+          [
+            12.4783316,
+            41.9009696
+          ],
+          [
+            12.4782676,
+            41.9009827
+          ],
+          [
+            12.4782139,
+            41.9009959
+          ],
+          [
+            12.4781602,
+            41.9010125
+          ],
+          [
+            12.4781103,
+            41.9010312
+          ],
+          [
+            12.4780604,
+            41.9010535
+          ],
+          [
+            12.4779733,
+            41.9010943
+          ]
+        ]
+      },
+      "id": "way/624656554"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/624656557",
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "pedestrian",
+        "name": "Via dell'Impresa"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4794233,
+            41.9010886
+          ],
+          [
+            12.4792965,
+            41.9013406
+          ],
+          [
+            12.4792235,
+            41.9014201
+          ],
+          [
+            12.4792274,
+            41.9015603
+          ]
+        ]
+      },
+      "id": "way/624656557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/770607449",
+        "highway": "residential",
+        "lanes": "2",
+        "lit": "yes",
+        "name": "Via della Gatta",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4804992,
+            41.8971931
+          ],
+          [
+            12.4804803,
+            41.8972446
+          ],
+          [
+            12.480299,
+            41.8977382
+          ],
+          [
+            12.4802959,
+            41.8977467
+          ],
+          [
+            12.4802874,
+            41.8977699
+          ]
+        ]
+      },
+      "id": "way/770607449"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/985174688",
+        "foot": "yes",
+        "highway": "residential",
+        "lit": "yes",
+        "name": "Via della Rotonda",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.476415,
+            41.8977056
+          ],
+          [
+            12.4764494,
+            41.8982147
+          ],
+          [
+            12.4764519,
+            41.8982514
+          ]
+        ]
+      },
+      "id": "way/985174688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1000804538",
+        "bicycle": "yes",
+        "highway": "footway",
+        "lit": "yes",
+        "name": "Piazza Venezia",
+        "name:etymology:wikidata": "Q641",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4828765,
+            41.8960992
+          ],
+          [
+            12.4829022,
+            41.8960991
+          ]
+        ]
+      },
+      "id": "way/1000804538"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1137951700",
+        "bicycle": "yes",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "lit": "yes",
+        "name": "Piazza Venezia",
+        "name:etymology:wikidata": "Q641",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4820338,
+            41.8959102
+          ],
+          [
+            12.4820642,
+            41.8959162
+          ]
+        ]
+      },
+      "id": "way/1137951700"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1137951738",
+        "foot": "no",
+        "highway": "residential",
+        "lanes": "2",
+        "oneway": "yes",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4822755,
+            41.8956422
+          ],
+          [
+            12.4822728,
+            41.8956167
+          ],
+          [
+            12.4822582,
+            41.8955799
+          ],
+          [
+            12.4822348,
+            41.8955417
+          ],
+          [
+            12.4821882,
+            41.8954815
+          ],
+          [
+            12.4821315,
+            41.8954251
+          ],
+          [
+            12.4820489,
+            41.8953639
+          ]
+        ]
+      },
+      "id": "way/1137951738"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1232443540",
+        "foot": "no",
+        "highway": "residential",
+        "lanes": "4",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Piazza Venezia",
+        "name:etymology:wikidata": "Q641",
+        "oneway": "yes",
+        "source:maxspeed": "IT:urban",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.482212,
+            41.8957842
+          ],
+          [
+            12.4822755,
+            41.8956422
+          ]
+        ]
+      },
+      "id": "way/1232443540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1293658979",
+        "highway": "residential",
+        "lane_markings": "no",
+        "lit": "yes",
+        "name": "Piazza di Pasquino",
+        "oneway": "yes",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.471887,
+            41.8979086
+          ],
+          [
+            12.4719461,
+            41.8978833
+          ],
+          [
+            12.4720713,
+            41.8978131
+          ],
+          [
+            12.4721427,
+            41.8977681
+          ],
+          [
+            12.4722018,
+            41.8977238
+          ]
+        ]
+      },
+      "id": "way/1293658979"
+    }
+  ]
+}
