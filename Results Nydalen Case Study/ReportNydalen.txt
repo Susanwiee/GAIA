@@ -1,0 +1,70 @@
+============================================================
+Urban Planning Layout - Evaluation Report
+_Delivered by GAIA_
+============================================================
+
+ Best Individual Configuration:
+------------------------------------------------------------
+- school1    | Site:   Site2   | Type: school     | Max Height:  11.3 m | GFA: 15280.0 m² 
+- apartment1 | Site:   Site1   | Type: apartment  | Max Height:   6.8 m | GFA: 17005.0 m² 
+- office1    | Site:   Site3   | Type: office     | Max Height:   4.5 m | GFA: 7362.0 m² 
+
+Fitness Evaluation:
+------------------------------------------------------------
+- GFA Fitness:                  1.000
+- Shadow on Nature Fitness:     0.910
+- Shadow on Buildings Fitness:  0.716
+- Walkability Fitness:          0.397
+- Cycleability Fitness:         0.423
+- ServiceAvailability Fitness:  0.798
+  └ For apartments:             0.728
+  └ For offices:                0.869
+
+Total Fitness Score: 0.708
+
+Fitness Explanation:
+------------------------------------------------------------
+- GFA fitness is 1.00, which indicates that the generated heights match the intended gross floor area well.
+- Shadow on nature fitness is 0.91. This means that the design preserves sunlight access to green areas.
+- Walkability score is 0.40. Long distances or barriers make walking less attractive to the school(s) location.
+- Cycleability score is 0.42. This indicates limited cycling infrastructure from the school(s) to residential, this could hinder active and sustainable transport.
+- The apartment(s) location has a good service availability which means that the building(s) are close to shops, cafes, or supermarkets.
+- The office(s) has a good service availability which means that the building type is located near lunch spots, restaurants or amenities.
+
+Solar Potential Analysis
+------------------------------------------------------------
+- Shadow on buildings fitness is 0.72: Minimal overshadowing on buildings.
+                                                            
+- Total New Roof Area:                        17721.4 m²
+- Shadowed Area on New Buildings:             1426.9 m² (8.1%)
+- Shadowed Area on Existing Buildings:        0.0 m²
+- Area Available for PV:                      16294.5 m²
+- Nature Areas in Shadow:                     1458.7 m² (1.8%)
+
+ Shadow Impact Summary
+------------------------------------------------------------
+
+New buildings casting shadows on existing buildings:
+• school1 casts shadow on 0 building(s):
+• apartment1 casts shadow on 0 building(s):
+• office1 casts shadow on 0 building(s):
+
+Existing buildings casting shadows on new buildings:
+• office1 receives shadow from 2 building(s):
+   ↳ ID: way/1023064202 | Height: 20.0 m | Overlap: 547.7 m²
+   ↳ ID: way/1023064202 | Height: 54.0 m | Overlap: 591.4 m²
+• apartment1 receives shadow from 2 building(s):
+   ↳ ID: way/1023064202 | Height: 10.0 m | Overlap: 213.5 m²
+   ↳ ID: way/1023064202 | Height: 13.0 m | Overlap: 74.4 m²
+
+
+
+
+
+
+
+
+
+
+
+
