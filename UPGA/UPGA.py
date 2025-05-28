@@ -100,7 +100,7 @@ class UPGA:
             for name, spec in self.building_specs.items():
                 site = random.choice(available_sites)
                 available_sites.remove(site)
-                floors = random.randint(1, 15)
+                floors = random.randint(1, 7)
                 site_area = round(self.site_areas[site], 0)
 
                 target_gfa = spec["target_gfa"]
