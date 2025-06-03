@@ -12,13 +12,13 @@ loader = LoadGeoData(crs)
 
 # 2 - insert Geodata layers from overpass turbo Queries using OverpassTruboQuery.txt
 geo_data = {
-    "sites": loader.load_geojso("GeoData/Rome/Sites.json"),
-    "buildings": loader.load_geojso("GeoData/Rome/Buildings.geojson"),
-    "barriers": loader.load_geojso("GeoData/Rome/Barriers.geojson"),
-    "nature": loader.load_geojso("GeoData/Rome/Nature.geojson"),
-    "cycle": loader.load_geojso("GeoData/Rome/cycle.geojson"),
-    "services": loader.load_geojso("GeoData/Rome/Services.geojson"),
-    "existing": loader.load_geojso("GeoData/Rome/BuildingsModified.geojson")
+    "sites": loader.load_geojson("GeoData/Rome/Sites.json"),
+    "buildings": loader.load_geojson("GeoData/Rome/Buildings.geojson"),
+    "barriers": loader.load_geojson("GeoData/Rome/Barriers.geojson"),
+    "nature": loader.load_geojson("GeoData/Rome/Nature.geojson"),
+    "cycle": loader.load_geojson("GeoData/Rome/cycle.geojson"),
+    "services": loader.load_geojson("GeoData/Rome/Services.geojson"),
+    "existing": loader.load_geojson("GeoData/Rome/BuildingsModified.geojson")
 }
 
 # 3 -  For visualization: enter feature as one of the following
