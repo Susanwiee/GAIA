@@ -10,7 +10,7 @@ class LoadGeoData:
         self.crs = crs
 
 
-    def load_geojso(self, path):
+    def load_geojson(self, path):
         with open(path) as f:
             raw_data = json.load(f)
 
