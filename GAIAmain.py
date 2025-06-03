@@ -33,13 +33,13 @@ IFC_file_path = "(insert path..............)/GeoData/FinalCityPlanTime(ProjectNa
 # 5) Insert Geodata layers from overpass turbo Queries 
 #See OverpassTruboQuery.txt for defined queries 
 geo_data = {
-    "sites": loader.load_geojso("GeoData/ProjectName/Sites.json"), 
-    "buildings": loader.load_geojso("GeoData/ProjectName/Buildings.geojson"),
-    "barriers": loader.load_geojso("GeoData/ProjectName/Barriers.geojson"),
-    "cycle": loader.load_geojso("GeoData/ProjectName/Cycle.geojson"),
-    "nature": loader.load_geojso("GeoData/ProjectName/Nature.geojson"),
-    "services": loader.load_geojso("GeoData/ProjectName/Services.geojson"),
-    "existing": loader.load_geojso("GeoData/ProjectName/BuildingsModified.geojson")
+    "sites": loader.load_geojson("GeoData/ProjectName/Sites.json"), 
+    "buildings": loader.load_geojson("GeoData/ProjectName/Buildings.geojson"),
+    "barriers": loader.load_geojson("GeoData/ProjectName/Barriers.geojson"),
+    "cycle": loader.load_geojson("GeoData/ProjectName/Cycle.geojson"),
+    "nature": loader.load_geojson("GeoData/ProjectName/Nature.geojson"),
+    "services": loader.load_geojson("GeoData/ProjectName/Services.geojson"),
+    "existing": loader.load_geojson("GeoData/ProjectName/BuildingsModified.geojson")
 }
 
 # 6) Insert building specifications - building name (id), building type (school, office, apartment) and target gross floor area 
