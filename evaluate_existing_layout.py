@@ -27,13 +27,13 @@ loader = LoadGeoData(crs)
 
 #insert Geodata layers from overpass turbo Queries, see "OverpassTruboQuery.txt"
 geo_data = {
-    "sites": loader.load_geojso("GeoData/NYGA/Sites.json"), 
-    "buildings": loader.load_geojso("GeoData/NYGA/Buildings.geojson"),
-    "barriers": loader.load_geojso("GeoData/NYGA/Barriers.geojson"),
-    "cycle": loader.load_geojso("GeoData/NYGA/cycle.geojson"),
-    "nature": loader.load_geojso("GeoData/NYGA/Nature.geojson"),
-    "services": loader.load_geojso("GeoData/NYGA/Services.geojson"),
-    "existing": loader.load_geojso("GeoData/NYGA/BuildingsModified.geojson")
+    "sites": loader.load_geojson("GeoData/NYGA/Sites.json"), 
+    "buildings": loader.load_geojson("GeoData/NYGA/Buildings.geojson"),
+    "barriers": loader.load_geojson("GeoData/NYGA/Barriers.geojson"),
+    "cycle": loader.load_geojson("GeoData/NYGA/cycle.geojson"),
+    "nature": loader.load_geojson("GeoData/NYGA/Nature.geojson"),
+    "services": loader.load_geojson("GeoData/NYGA/Services.geojson"),
+    "existing": loader.load_geojson("GeoData/NYGA/BuildingsModified.geojson")
 }
 
 
