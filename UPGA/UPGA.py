@@ -60,10 +60,7 @@ class UPGA:
         width_m = maxx - minx
         height_m = maxy - miny
         self.D_max = max(width_m, height_m)
-
-        # Set k_n and k_b defaults if not provided
-        self.k_n = k_n if k_n is not None else len(self.nature_gdf)
-        self.k_b = k_b if k_b is not None else len(self.barriers_gdf)        
+        
 
         #initializing accessibility analyzer for walkability/cycleability
         self.access_analyzer = AccessibilityAnalyzer(
