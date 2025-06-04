@@ -15,9 +15,6 @@ class AccessibilityAnalyzer:
         self.accessability_building_type = accessability_building_type
         self.D_max = D_max
 
-        # Set k_n and k_b defaults if not provided
-        self.k_n = k_n if k_n is not None else len(self.nature_gdf)
-        self.k_b = k_b if k_b is not None else len(self.barriers_gdf)
         
         #ensure 'highway' column exists before filtering
         if "highway" in self.barriers_gdf.columns:
