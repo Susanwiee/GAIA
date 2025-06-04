@@ -14,6 +14,8 @@ class AccessibilityAnalyzer:
         self.cycle_gdf = cycle_gdf
         self.accessability_building_type = accessability_building_type
         self.D_max = D_max
+        self.k_n = k_n
+        self.k_b = k_b
 
         
         #ensure 'highway' column exists before filtering
