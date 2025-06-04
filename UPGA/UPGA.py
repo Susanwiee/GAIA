@@ -70,7 +70,9 @@ class UPGA:
             self.barriers_gdf, 
             self.cycle_gdf, 
             self.accessability_building_type, 
-            self.D_max
+            self.D_max, 
+            self.k_n = k_n if k_n is not None else len(self.nature_gdf),
+            self.k_b = k_b if k_b is not None else len(self.barriers_gdf)
         )
         
         #scaling factors for shadow-on-building penalty
