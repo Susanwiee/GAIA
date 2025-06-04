@@ -138,4 +138,5 @@ class RectangleAnalyzer:
         draw_arrow(0, -1.8, "S", 'center', 'top')
         draw_arrow(-1.8, 0, "W", 'right', 'center')
 
-    def 
+    def get_parameters(self) -> List[dict]:
+        return self.ga_site_parameters
