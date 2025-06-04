@@ -6,7 +6,7 @@ from shapely.ops import unary_union
 import geopandas as gpd
 
 class AccessibilityAnalyzer:
-    def __init__(self, sites_gdf, buildings_gdf, nature_gdf, barriers_gdf, cycle_gdf, accessability_building_type="school", D_max=500):
+    def __init__(self, sites_gdf, buildings_gdf, nature_gdf, barriers_gdf, cycle_gdf, accessability_building_type="school", D_max=500, k_n, k_b):
         self.sites_gdf = sites_gdf
         self.buildings_gdf = buildings_gdf
         self.nature_gdf = nature_gdf
