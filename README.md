@@ -1,7 +1,5 @@
 # GAIA : Genetic Algorithm for Intelligent Architecture
-
-The devlopment of GAIA is a part of my work for my master´s thesis in mechanical engineering at NTNU trondheim Norway, at the department of industrial and mechanical engineering. 
-GAIA is a two-level generative design tool that bridges urban-scale planning with site-specific building design. It integrates geospatial data processing, a urban planning genetic algorithm (UPGA) for optimization, and IFC export (BuildingComposer), enabling planners and architects to explore sustainable urban configurations in a transparent and interactive workflow.
+GAIA was developed as part of my master’s thesis in Mechanical Engineering at the Norwegian University of Science and Technology (NTNU), Trondheim, within the Department of Mechanical and Industrial Engineering. GAIA is a two-level generative design tool that bridges urban-scale planning with site-specific building design. It integrates geospatial data processing, a urban planning genetic algorithm (UPGA) for optimization, and IFC export (BuildingComposer), enabling planners and architects to explore sustainable urban configurations in a transparent and interactive workflow.
 
 The workflow begins by pre-processing spatial data layers, such as buildings, nature zones, barriers, and services, extracted from OpenStreetMap and exported as GeoJSON files. These are parsed into GeoDataFrames using a custom class called LoadGeoData, which ensures accurate coordinate reference systems and consistent formatting across datasets. Sites are defined as polygons in a user-provided file (sites.json), and existing building geometries are modified using a script that estimates missing heights based on levels or default values, resulting in a cleaned and height-complete modified_buildings.geojson file.
 
@@ -12,40 +10,29 @@ To visualize the urban context and verify data quality, GAIA includes a lightwei
 <img width="757" alt="Skjermbilde 2025-06-10 kl  14 03 56" src="https://github.com/user-attachments/assets/43574006-b4f4-42e3-8a86-e49c210a04ab" />
 
 
-The core of GAIA is the Urban Planning Genetic Algorithm (UPGA), which receives the processed data layers and a set of user-defined parameters. Each building is represented as a dictionary of genes (site, height, type, and GFA), and the algorithm generates populations of such configurations, evaluating them based on a multi-objective fitness function. These objectives include achieving the target GFA, improving accessibility for pedestrians ("walkability") and cyclists ("cycleability"), ensuring service availability for housing and office buildings, and minimizing solar shadow impact on green spaces and rooftops. The UPGA evolves a population of candidate solutions over multiple generations using selection, crossover, and mutation. It returns the best-performing layout along with a textual report and a spatial plot that overlays the new proposal on top of the original urban fabric. Below is a 
+The core of GAIA is the Urban Planning Genetic Algorithm (UPGA), which receives the processed data layers and a set of user-defined parameters. Each building is represented as a dictionary of genes (site, height, type, and GFA), and the algorithm generates populations of such configurations, evaluating them based on a multi-objective fitness function. These objectives include achieving the target GFA, improving accessibility for pedestrians ("walkability") and cyclists ("cycleability"), ensuring service availability for housing and office buildings, and minimizing solar shadow impact on green spaces and rooftops. 
 
 <img width="1024" alt="Skjermbilde 2025-06-08 kl  14 26 08" src="https://github.com/user-attachments/assets/3661d454-7e65-40f7-8b44-d16aafba7cf8" />
 
-
-Walkability
-<img width="1232" alt="Skjermbilde 2025-06-08 kl  14 23 15" src="https://github.com/user-attachments/assets/9f99395d-655a-4ff3-b74d-471fb2d61b29" />
-
-cycleability: 
-
-shadow analysis: 
-
-Availability of services: 
-
-Target GFA: 
+The UPGA evolves a population of candidate solutions over multiple generations using selection, crossover, and mutation. It returns the best-performing layout along with a textual report and a spatial plot (below is a figure of such a plot) that overlays the new proposal on top of the original urban fabric. 
 
 <img width="768" alt="Skjermbilde 2025-06-10 kl  14 13 29" src="https://github.com/user-attachments/assets/2143254f-b4e3-4e1f-a3c9-c0e70560bdad" />
 
 
-Once the best urban layout has been found, the Daedalus GA is run individually for each building. This second-level optimization refines the building shapes and volumes, based on site dimensions and the GFA target. It uses a different set of fitness objectives, focusing on shape compactness, solar PV roof potential, and window-to-wall ratios. The RectangleAnalyzer class bridges the geometric mismatch between polygonal sites and the rectangular input required by Daedalus by computing the largest inscribed rectangle within each site and tracking its position and orientation. A figure of an example output from the RectangleAnalyzer is visualized below. 
+Once the best urban layout has been found, the Daedalus GA (see IFCGAgenerator repository https://github.com/Susanwiee/IFCGAGenerator ) is run individually for each building. This second-level optimization refines the building shapes and volumes, based on site dimensions and the GFA target. It uses a different set of fitness objectives, focusing on shape compactness, solar PV roof potential, and window-to-wall ratios. The RectangleAnalyzer class bridges the geometric mismatch between polygonal sites and the rectangular input required by Daedalus by computing the largest inscribed rectangle within each site and tracking its position and orientation. A figure of an example output from the RectangleAnalyzer is visualized below. 
 
 <img width="774" alt="Skjermbilde 2025-06-10 kl  14 11 19" src="https://github.com/user-attachments/assets/c294eb9a-3c77-420d-a2e6-7604fdd74a1e" />
-
 
 After optimization, the enhanced BuildingComposer module assembles an IFC model. Each site and building is placed at its real-world location and rotated to match true-north orientation, based on the previously computed rectangle parameters. The geometry of walls, roofs, and windows is generated using ifcopenshell and is correctly transformed to reflect site-specific orientations. The output is a spatially accurate IFC4-compliant model of the proposed district, suitable for BIM interoperability. A figure of an example IFC file generated by the Buildingcomposer in GAIA is visualized below, viewed in Solibri Anywere. 
 
 <img width="584" alt="Skjermbilde 2025-06-10 kl  14 12 32" src="https://github.com/user-attachments/assets/ae706fa0-2f64-4459-9a4a-82a47ae23bb6" />
 
 
-To run the entire GAIA pipeline, users execute the GAIAmain.py script. This script loads the required input data, executes the UPGA and Daedalus GA, and exports both a human-readable report and a fully georeferenced IFC file. The interface allows users to adjust weights for different fitness objectives, input location-specific sun angles, and define target GFA and other building specifications. The code is modular, extensible, and designed for integration into generative urban design workflows.
+To run the entire GAIA pipeline, users execute the GAIAmain.py script. This script loads the required input data, executes the UPGA and Daedalus GA, and exports both a human-readable report and a fully georeferenced IFC file. The interface allows users to input location-specific sun angles, and define target GFA and other building specifications. The code is modular, extensible, and designed for integration into generative urban design workflows.
 
 Visualizations such as building-type classification maps, shadow plots, and accessibility evaluations can be generated during the process. These can be embedded in the repository to demonstrate the functionality, such as showing how proposed buildings interact with the existing context and how shadows fall on neighboring structures.
 
-GAIA enables exploration of different planning scenarios with minimal code adjustments and supports rigorous multi-criteria evaluation of urban form. It is an open, extensible platform for research and practical use in generative urban planning.
+GAIA enables exploration of different planning scenarios with minimal code adjustments and supports rigorous multi-criteria evaluation of urban form. It is an extensible framework for future research.
 
 (Feel free to contact me on susanne.wiese@live.no if you have any questions)
 
