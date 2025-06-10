@@ -28,6 +28,9 @@ Availability of services:
 
 Target GFA: 
 
+<img width="768" alt="Skjermbilde 2025-06-10 kl  14 13 29" src="https://github.com/user-attachments/assets/2143254f-b4e3-4e1f-a3c9-c0e70560bdad" />
+
+
 Once the best urban layout has been found, the Daedalus GA is run individually for each building. This second-level optimization refines the building shapes and volumes, based on site dimensions and the GFA target. It uses a different set of fitness objectives, focusing on shape compactness, solar PV roof potential, and window-to-wall ratios. The RectangleAnalyzer class bridges the geometric mismatch between polygonal sites and the rectangular input required by Daedalus by computing the largest inscribed rectangle within each site and tracking its position and orientation. A figure of an example output from the RectangleAnalyzer is visualized below. 
 
 <img width="774" alt="Skjermbilde 2025-06-10 kl  14 11 19" src="https://github.com/user-attachments/assets/c294eb9a-3c77-420d-a2e6-7604fdd74a1e" />
